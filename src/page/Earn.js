@@ -6,10 +6,10 @@ const Earn = () => {
   return (
     <>
       <Helmet>
-        <title>Community Earn on GhostApp - Earn from Your Ghost Channel</title>
+        <title>Community Earn on Irova  cluster - Earn from Your Irova Channel</title>
         <meta
           name="description"
-          content="Discover how you can earn from your Ghost channel by participating in the Community Earn program. Learn more about the opportunities to monetize your content and engage with the GhostApp community."
+          content="Discover how you can earn from your Irova channel by participating in the Community Earn program. Learn more about the opportunities to monetize your content and engage with the Irova  cluster community."
         />
       </Helmet>
 
@@ -135,13 +135,13 @@ const Earn = () => {
               }}
             >
               <p>
-                The "Introduction to Monetization" section of the Ghost App's
+                The "Introduction to Monetization" section of the Irova cluster's
                 "Earn" Monetization Policy provides a comprehensive overview of
                 the monetization opportunities available to content creators,
                 particularly those focusing on crypto channels. This segment is
                 crucial as it sets the expectations and provides a foundational
                 understanding for channel owners interested in generating
-                revenue from their content on Ghost App.
+                revenue from their content on Irova cluster.
               </p>
               <h5 style={{ padding: "10px 0px" }}>
                 Key aspects of this introduction include:
@@ -153,7 +153,7 @@ const Earn = () => {
                 <span>
                   This part extends a warm welcome to channel owners,
                   introducing them to the potential of monetizing their content
-                  on Ghost App, and encouraging them to explore this revenue
+                  on Irova cluster, and encouraging them to explore this revenue
                   stream
                 </span>
               </div>
@@ -172,7 +172,7 @@ const Earn = () => {
                   Outline of Monetization Mechanism:
                 </strong>{" "}
                 The introduction briefly describes how monetization works within
-                the Ghost App. It sets the stage for the detailed criteria and
+                the Irova cluster. It sets the stage for the detailed criteria and
                 earning rates that follow, giving creators an initial glimpse
                 into the potential earnings and the process involved.
               </div>
@@ -196,7 +196,7 @@ const Earn = () => {
               <div>
                 <h5>Monetization Earnings</h5>
                 <p>
-                  The "Monetization Earnings" section of the Ghost App's "Earn"
+                  The "Monetization Earnings" section of the Irova cluster's "Earn"
                   Monetization Policy details how crypto channel owners can earn
                   revenue through their content. This part of the policy is
                   critical as it outlines the specific financial rewards and the
@@ -289,7 +289,7 @@ const Earn = () => {
                   <strong style={strongStyle}>Procedure for Amendments:</strong>
                   <ul>
                     <li>
-                      Ghost reserves the right to modify the "Earn" Monetization
+                      Irova reserves the right to modify the "Earn" Monetization
                       Policy at its discretion. This could involve changes in
                       the earning rates, eligibility criteria, payment
                       procedures, or any other aspect of the program.
@@ -315,7 +315,7 @@ const Earn = () => {
                     <li>
                       Notifications may be conveyed through various channels,
                       such as in-app notifications, email alerts, or
-                      announcements on the Ghost App’s official website or
+                      announcements on the Irova cluster’s official website or
                       social media platforms.
                     </li>
                   </ul>
@@ -343,7 +343,7 @@ const Earn = () => {
                   <strong style={strongStyle}>Feedback and Adaptation:</strong>
                   <ul>
                     <li>
-                      Ghost values user feedback regarding policy changes. Users
+                      Irova values user feedback regarding policy changes. Users
                       are encouraged to share their thoughts and suggestions,
                       which can be considered for future policy revisions.
                     </li>

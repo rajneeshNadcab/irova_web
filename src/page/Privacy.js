@@ -5,11 +5,11 @@ const Privacy = () => {
     <>
       <Helmet>
         <title>
-          GhostApp Privacy Policy - Secure and Private Communication
+          Irova  cluster Privacy Policy - Secure and Private Communication
         </title>
         <meta
           name="description"
-          content="Read GhostApp's Privacy Policy to learn how we protect your privacy and ensure secure, encrypted communication. Your privacy is our priority."
+          content="Read Irova  cluster's Privacy Policy to learn how we protect your privacy and ensure secure, encrypted communication. Your privacy is our priority."
         />
       </Helmet>
 
@@ -44,7 +44,7 @@ const Privacy = () => {
                 marginLeft: "10px",
               }}
             >
-            <a href="/" style={{color:'black',textDecoration:'none'}}>Ghost <span>/</span></a>  Privacy Policy
+            <a href="/" style={{color:'black',textDecoration:'none'}}>Irova <span>/</span></a>  Privacy Policy
             </h6> */}
             </div>
           </div>
@@ -143,17 +143,17 @@ const Privacy = () => {
                     }}
                   >
                     <p>
-                      Ghost, a cutting-edge decentralized communication app that
+                      Irova, a cutting-edge decentralized communication app that
                       operates on both Android and iOS platforms, is
                       foundational to its commitment to user privacy and data
-                      security. This policy is especially crucial given Ghost’s
+                      security. This policy is especially crucial given Irova’s
                       array of services, including chatting, calling, video
                       calling, group chatting, and streaming, all integrated
                       with advanced Web3 and blockchain technologies.
                     </p>
                     <p>
                       At its core, the policy emphasizes stringent data
-                      protection. Ghost ensures end-to-end encryption for all
+                      protection. Irova ensures end-to-end encryption for all
                       user communications, a critical feature for a service
                       operating in the sensitive realm of personal and group
                       communications. Furthermore, the app employs an innovative
@@ -164,11 +164,11 @@ const Privacy = () => {
                       security and privacy.
                     </p>
                     <p>
-                      A unique aspect of Ghost is its use of Web3 login
+                      A unique aspect of Irova is its use of Web3 login
                       mechanisms. Users access the app through decentralized
                       Web3 logins via EVM chain wallets. This approach not only
                       enhances security but also promotes user anonymity, as
-                      Ghost does not require traditional personal information
+                      Irova does not require traditional personal information
                       like email addresses or phone numbers for account setup.
                       This method aligns with the app’s philosophy of minimal
                       data collection, where it gathers only the essential
@@ -186,7 +186,7 @@ const Privacy = () => {
                       right.
                     </p>
                     <p>
-                      Groups and channels, essential features of Ghost for
+                      Groups and channels, essential features of Irova for
                       community interaction and content broadcasting, are also
                       covered under the policy. These features are managed with
                       a strong emphasis on privacy, ensuring that interactions
@@ -202,20 +202,20 @@ const Privacy = () => {
                     </p>
                     <p>
                       Finally, the Privacy Policy provides clear directions for
-                      users to contact Ghost for support or inquiries, ensuring
+                      users to contact Irova for support or inquiries, ensuring
                       that channels of communication are always open, reflecting
-                      Ghost's commitment to responsive and user-friendly
+                      Irova's commitment to responsive and user-friendly
                       service.
                     </p>
                     <p>
-                      In conclusion, the Ghost app’s Privacy Policy is a
+                      In conclusion, the Irova cluster’s Privacy Policy is a
                       comprehensive document that reflects the app’s dedication
                       to upholding high standards in privacy, data security, and
                       ethical data management. It caters to a diverse user base,
                       ranging from those who are tech-savvy and deeply involved
                       in the blockchain and Web3 spaces, to the general public
                       who seek a secure and private digital communication
-                      experience. This policy is a testament to Ghost’s
+                      experience. This policy is a testament to Irova’s
                       commitment to leading the way in secure, decentralized
                       communication technologies.
                     </p>
@@ -234,7 +234,7 @@ const Privacy = () => {
                       <h5 style={{ marginLeft: "20px" }}>Introduction</h5>
                       <div style={{ marginLeft: "40px" }}>
                         <p style={{ margin: "0px", padding: "0px" }}>
-                          <span>1.1</span> Overview of Ghost App
+                          <span>1.1</span> Overview of Irova cluster
                         </p>
                         <p style={{ margin: "0", padding: "0" }}>
                           <span>1.2</span> Purpose of the Privacy Policy
@@ -418,11 +418,11 @@ const Privacy = () => {
 
                   <div>
                     <h5 style={{ letterSpacing: "1px", wordSpacing: "1px" }}>
-                      1.1 Overview Of Ghost App
+                      1.1 Overview Of Irova cluster
                     </h5>
                     <div style={{ padding: "10px" }}>
                       <p>
-                        The Ghost App, as detailed in the Overview section of
+                        The Irova cluster, as detailed in the Overview section of
                         its Privacy Policy, is a unique communication platform
                         that integrates the latest in Web3 and blockchain
                         technologies. It's designed to provide users with a
@@ -434,17 +434,17 @@ const Privacy = () => {
                         experiences.
                       </p>
                       <p>
-                        A key feature of Ghost is its decentralized nature,
+                        A key feature of Irova is its decentralized nature,
                         leveraging blockchain technology to offer a more secure
                         and private way of communicating compared to traditional
                         apps. Users log in through a Web3 mechanism using EVM
                         chain wallets, which adds an additional layer of
                         security and user autonomy. This method also means that
-                        Ghost doesn't require traditional personal data for
+                        Irova doesn't require traditional personal data for
                         account creation, enhancing user anonymity.
                       </p>
                       <p>
-                        Ghost's commitment to privacy is further emphasized
+                        Irova's commitment to privacy is further emphasized
                         through its use of end-to-end encryption, ensuring that
                         all communications remain private and secure. The app
                         stores data off-chain on users' devices, synchronized
@@ -459,7 +459,7 @@ const Privacy = () => {
                     </h5>
                     <div style={{ padding: "10px" }}>
                       <p>
-                        The purpose of the Privacy Policy for the Ghost App, as
+                        The purpose of the Privacy Policy for the Irova cluster, as
                         outlined in section 1.2, is to provide users with a
                         clear and comprehensive understanding of how their
                         personal information is handled within this
@@ -476,7 +476,7 @@ const Privacy = () => {
                       <ul>
                         <li>
                           <strong>Transparency:</strong> To clearly articulate
-                          the types of data the Ghost App collects (if any), how
+                          the types of data the Irova cluster collects (if any), how
                           it's used, and how it's protected. This is especially
                           important given the app's use of advanced technologies
                           like blockchain and Web3.
@@ -490,7 +490,7 @@ const Privacy = () => {
                         </li>
                         <li>
                           <strong>Compliance and Accountability:</strong> The
-                          policy ensures that the Ghost App adheres to relevant
+                          policy ensures that the Irova cluster adheres to relevant
                           data protection laws and regulations. It also holds
                           the app accountable for its data handling practices.
                         </li>
@@ -514,7 +514,7 @@ const Privacy = () => {
                     </h5>
                     <div style={{ padding: "10px" }}>
                       <p>
-                        Ghost App's Privacy Policy, titled "End-to-End
+                        Irova cluster's Privacy Policy, titled "End-to-End
                         Encryption and Advanced Security Features," delves into
                         the sophisticated security measures employed to protect
                         user data. This section is essential in demonstrating
@@ -530,7 +530,7 @@ const Privacy = () => {
                           </strong>
                           <ul>
                             <li>
-                              The policy explains how Ghost App uses a double
+                              The policy explains how Irova cluster uses a double
                               layer of cryptographic encryption to secure user
                               communications.
                             </li>
@@ -550,7 +550,7 @@ const Privacy = () => {
                           <strong>Off-Chain Data Storage:</strong>
                           <ul>
                             <li>
-                              The Ghost App stores user data off-chain, meaning
+                              The Irova cluster stores user data off-chain, meaning
                               it is not stored on a central server but locally
                               on users' devices.
                             </li>
@@ -608,7 +608,7 @@ const Privacy = () => {
                     </h5>
                     <div style={{ padding: "10px" }}>
                       <p>
-                        In this section, the Privacy Policy details the Ghost
+                        In this section, the Privacy Policy details the Irova
                         App's approach to data storage, which is a key component
                         of its privacy and security framework.
                       </p>
@@ -648,7 +648,7 @@ const Privacy = () => {
                     <div style={{ padding: "10px" }}>
                       <p>
                         This section focuses on the overall security measures
-                        and protocols employed by the Ghost App to protect user
+                        and protocols employed by the Irova cluster to protect user
                         data.
                       </p>
                       <ul>
@@ -661,7 +661,7 @@ const Privacy = () => {
                         </li>
                         <li>
                           <strong>Protection Against Threats:</strong> The
-                          policy describes how the Ghost App safeguards against
+                          policy describes how the Irova cluster safeguards against
                           common security threats, including hacking, phishing,
                           and other cyber-attacks.
                         </li>
@@ -688,7 +688,7 @@ const Privacy = () => {
                     <div style={{ padding: "10px" }}>
                       <p>
                         In this section, the policy explains the unique login
-                        mechanism of the Ghost App, emphasizing its
+                        mechanism of the Irova cluster, emphasizing its
                         decentralized nature.
                       </p>
                       <ul>
@@ -726,7 +726,7 @@ const Privacy = () => {
                     <div style={{ padding: "10px" }}>
                       <ul>
                         <li>
-                          This section details how Ghost App ensures user
+                          This section details how Irova cluster ensures user
                           anonymity, particularly through its Web3 integration
                           and decentralized identity management.
                         </li>
@@ -764,7 +764,7 @@ const Privacy = () => {
                         <ul>
                           <li>
                             Lists and explains the types of data collected by
-                            the Ghost App, if any, and the necessity of each
+                            the Irova cluster, if any, and the necessity of each
                             type for the app’s functionality.
                           </li>
                           <li>
@@ -847,7 +847,7 @@ const Privacy = () => {
                     <div style={{ padding: "10px" }}>
                       <ul>
                         <li>
-                          Covers how the Ghost App obtains user consent for data
+                          Covers how the Irova cluster obtains user consent for data
                           collection and usage.
                         </li>
                         <li>
@@ -919,7 +919,7 @@ const Privacy = () => {
                       <div style={{ padding: "10px" }}>
                         <ul>
                           <li>
-                            Describes how and why the Ghost App integrates
+                            Describes how and why the Irova cluster integrates
                             third-party services.
                           </li>
                           <li>

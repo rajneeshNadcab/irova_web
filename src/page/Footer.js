@@ -15,13 +15,13 @@ const Footer = () => {
             <a href="javasccript:void(0)">FAQs</a>
           </li>
           <li>
-            <a href="https://twitter.com/ghostmsg">
+            <a href="https://twitter.com/Irovamsg">
              
               <i class="fa fa-twitter"></i>
             </a>
           </li>
           <li>
-            <a href="https://www.instagram.com/ghostmsg/">
+            <a href="https://www.instagram.com/Irovamsg/">
             <i class="fa fa-instagram"></i>
             </a>
           </li>

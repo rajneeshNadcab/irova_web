@@ -6,11 +6,11 @@ const Advertise = () => {
     <>
       <Helmet>
         <title>
-          Advertise on GhostApp - Reach a Secure and Engaged Audience
+          Advertise on Irova  cluster - Reach a Secure and Engaged Audience
         </title>
         <meta
           name="description"
-          content="Explore advertising opportunities on GhostApp and connect with a secure and engaged audience. Learn how you can promote your products and services to our community."
+          content="Explore advertising opportunities on Irova  cluster and connect with a secure and engaged audience. Learn how you can promote your products and services to our community."
         />
       </Helmet>
 
@@ -108,11 +108,11 @@ const Advertise = () => {
               className="notion-header__title"
             >
               {" "}
-              Ghost App Advertising Policy
+              Irova cluster Advertising Policy
             </h3>
             <h5>Overview</h5>
             <p>
-              The "Ghost" App: A cutting-edge platform designed specifically for
+              The "Irova" App: A cutting-edge platform designed specifically for
               the crypto-enthusiastic community. Our users are not just familiar
               with cryptocurrency; they are deeply embedded in the crypto
               ecosystem, as evidenced by their unique method of accessing our
@@ -122,7 +122,7 @@ const Advertise = () => {
               potentially more receptive to crypto-related advertising.
             </p>
             <p>
-              Target Audience: "Ghost" app users are distinguished by their
+              Target Audience: "Irova" app users are distinguished by their
               advanced knowledge of blockchain technology, cryptocurrencies, and
               related financial systems. This audience includes but is not
               limited to crypto traders, blockchain developers, digital currency
@@ -132,19 +132,19 @@ const Advertise = () => {
             </p>
             <p>
               Unique Environment for Advertisers: By choosing to advertise on
-              "Ghost", businesses and individual advertisers gain access to a
+              "Irova", businesses and individual advertisers gain access to a
               niche but highly engaged and knowledgeable audience. This is not a
               general consumer base; it's a specialized group with specific
               interests and higher potential for interaction with ads that align
               with their interests in the cryptocurrency and blockchain secto
             </p>
             <p>
-              User Trust and Quality Experience: The "Ghost" app values the
+              User Trust and Quality Experience: The "Irova" app values the
               trust and experience of its users. Therefore, we ensure that all
               advertisements are not only relevant but also maintain the quality
               and integrity of the user experience on our platform. Our
               selective advertising approach prioritizes user engagement and
-              satisfaction, making "Ghost" an ideal place for advertisers who
+              satisfaction, making "Irova" an ideal place for advertisers who
               want to reach a targeted, crypto-savvy audience.
             </p>
             <h5>Exclusive Advertising Access:</h5>
@@ -153,7 +153,7 @@ const Advertise = () => {
               <ul>
                 <li>
                   <strong>Selective Advertising Privileges:</strong> In the
-                  "Ghost" app ecosystem, the right to advertise is an exclusive
+                  "Irova" app ecosystem, the right to advertise is an exclusive
                   benefit reserved for premium members and owners of premium
                   groups/channels. This policy is designed to ensure that
                   advertisers themselves are actively involved and invested in
@@ -163,7 +163,7 @@ const Advertise = () => {
                 <li>
                   {" "}
                   <strong> Quality Control:</strong> By restricting advertising
-                  access to premium entities, "Ghost" maintains a high standard
+                  access to premium entities, "Irova" maintains a high standard
                   of ad content. Premium members and channel owners are more
                   likely to understand the unique dynamics and preferences of
                   the app's user base, leading to more effective and engaging
@@ -184,7 +184,7 @@ const Advertise = () => {
                 <li>
                   <strong>Targeted Impact:</strong> Advertisements from premium
                   members or channels are more likely to align with the
-                  interests and needs of the "Ghost" app's user base. This
+                  interests and needs of the "Irova" app's user base. This
                   targeted approach not only benefits the advertisers with
                   better engagement rates but also enhances the overall user
                   experience by providing them with ads that are more likely to
@@ -207,7 +207,7 @@ const Advertise = () => {
                   or to own a premium channel, individuals or entities undergo a
                   vetting process. This ensures that those who are granted
                   advertising rights uphold the standards and values of the
-                  "Ghost" community.
+                  "Irova" community.
                 </li>
                 <li>
                   <strong>Feedback and Improvement:</strong> Premium advertisers
@@ -223,7 +223,7 @@ const Advertise = () => {
               <h5>Cost Structure:</h5>
               <ul>
                 <li>
-                  <strong>Pricing Model:</strong> The "Ghost" app employs a Cost
+                  <strong>Pricing Model:</strong> The "Irova" app employs a Cost
                   Per Thousand Impressions (CPM) model for ad pricing. This
                   model is widely recognized and allows advertisers to pay based
                   on the number of times their ad is shown, with the cost
@@ -243,7 +243,7 @@ const Advertise = () => {
               <ul>
                 <li>
                   <strong>Flexible Payment in Crypto:</strong> Recognizing the
-                  nature of our audience and the platform, "Ghost" accepts
+                  nature of our audience and the platform, "Irova" accepts
                   payments in various cryptocurrencies including USDT, ETH, BNB,
                   and MATIC. This not only aligns with our user base's
                   preferences but also encourages the use of digital currencies.
@@ -275,7 +275,7 @@ const Advertise = () => {
                 </li>
                 <li>
                   <strong>Enhanced Accessibility for Crypto Businesses:</strong>{" "}
-                  By accepting various cryptocurrencies, "Ghost" lowers the
+                  By accepting various cryptocurrencies, "Irova" lowers the
                   barrier for crypto-focused businesses to advertise, enabling a
                   broader range of advertisers to participate.
                 </li>
@@ -302,7 +302,7 @@ const Advertise = () => {
               <h5>Diversity in Ad Content:</h5>
               <ul>
                 <li>
-                  <strong>Broad Spectrum:</strong> "Ghost" welcomes a wide range
+                  <strong>Broad Spectrum:</strong> "Irova" welcomes a wide range
                   of ad content, especially those that resonate with the
                   interests and lifestyles of our crypto-engaged audience. This
                   includes ads related to cryptocurrency services, blockchain
@@ -345,7 +345,7 @@ const Advertise = () => {
               <ul>
                 <li>
                   <strong>Relevance to Crypto Audience:</strong> Ads must be
-                  relevant to the crypto and tech-savvy audience of "Ghost".
+                  relevant to the crypto and tech-savvy audience of "Irova".
                   This ensures that our users find the ads interesting and
                   potentially useful.
                 </li>
@@ -394,7 +394,7 @@ const Advertise = () => {
               <ul>
                 <li>
                   <strong>Optimized Visibility:</strong> Ads are strategically
-                  placed within the "Ghost" app to ensure maximum visibility
+                  placed within the "Irova" app to ensure maximum visibility
                   without compromising the user experience. Common placements
                   include banner spaces at the top or bottom of the screen,
                   interstitial spaces between content, or as part of the feed in
@@ -412,7 +412,7 @@ const Advertise = () => {
               <h5>Intelligent Targeting:</h5>
               <ul>
                 <li>
-                  <strong>Basic User Interest Targeting:</strong> "Ghost"
+                  <strong>Basic User Interest Targeting:</strong> "Irova"
                   employs a targeting system that considers the users'
                   activities and interests within the cryptocurrency and tech
                   domains. This ensures that the ads displayed are more likely
@@ -434,12 +434,12 @@ const Advertise = () => {
                 <li>
                   <strong>Advertiser Input:</strong> Advertisers have the option
                   to specify their preferred target audience based on available
-                  demographics and interest categories within the "Ghost" app's
+                  demographics and interest categories within the "Irova" app's
                   user base.
                 </li>
                 <li>
                   <strong>User Control:</strong> To respect user preferences,
-                  "Ghost" provides users with options to control the types of
+                  "Irova" provides users with options to control the types of
                   ads they see, enhancing user satisfaction and ad
                   effectiveness.
                 </li>
@@ -487,7 +487,7 @@ const Advertise = () => {
                   required to pay for their ad campaigns upfront. This policy
                   ensures that funds are secured before the commencement of the
                   ad campaign, providing financial stability and predictability
-                  for both the "Ghost" app and advertisers.
+                  for both the "Irova" app and advertisers.
                 </li>
                 <li>
                   <strong>Cryptocurrency Payments:</strong> In line with the
@@ -566,7 +566,7 @@ const Advertise = () => {
                   <strong>Non-Refundable Policy:</strong> Payments are generally
                   non-refundable except in specific circumstances outlined in
                   the terms and conditions, such as non-compliance with ad
-                  policies or technical issues on the part of the "Ghost" app.
+                  policies or technical issues on the part of the "Irova" app.
                 </li>
               </ul>
             </div>
@@ -601,18 +601,18 @@ const Advertise = () => {
               <h5>Platform Rights and Discretion:</h5>
               <ul>
                 <li>
-                  <strong>Ad Approval:</strong> "Ghost" reserves the right to
+                  <strong>Ad Approval:</strong> "Irova" reserves the right to
                   approve or reject any ad submission based on our content
                   guidelines, user experience considerations, and other criteria
                   as deemed appropriate.
                 </li>
                 <li>
-                  <strong>Ad Removal:</strong> "Ghost" may remove any ad at any
+                  <strong>Ad Removal:</strong> "Irova" may remove any ad at any
                   time if it is found to be in violation of these terms, or if
                   it receives significant negative feedback from users.
                 </li>
                 <li>
-                  <strong>Policy Changes:</strong> "Ghost" reserves the right to
+                  <strong>Policy Changes:</strong> "Irova" reserves the right to
                   modify these advertising terms and conditions, as well as the
                   overall advertising policy, at any time. Advertisers will be
                   notified of significant changes, but it is the advertisers'
@@ -623,7 +623,7 @@ const Advertise = () => {
               <h5>Liability and Disputes:</h5>
               <ul>
                 <li>
-                  <strong>Limitation of Liability:</strong> "Ghost" shall not be
+                  <strong>Limitation of Liability:</strong> "Irova" shall not be
                   liable for any indirect, incidental, special, consequential,
                   or punitive damages, including loss of profits, data, or other
                   intangible losses, resulting from the use of the advertising
@@ -631,7 +631,7 @@ const Advertise = () => {
                 </li>
                 <li>
                   <strong>Dispute Resolution:</strong> Any disputes arising from
-                  the use of "Ghost" advertising services will be resolved
+                  the use of "Irova" advertising services will be resolved
                   through negotiation, and if necessary, through arbitration or
                   legal proceedings, subject to the jurisdiction stipulated in
                   the agreement.
@@ -644,7 +644,7 @@ const Advertise = () => {
                   <strong>Data Use Compliance:</strong> Advertisers must comply
                   with all applicable data protection and privacy laws regarding
                   the collection and use of user data obtained through the
-                  "Ghost" app.
+                  "Irova" app.
                 </li>
                 <li>
                   <strong>Confidentiality:</strong> Any confidential information
@@ -670,7 +670,7 @@ const Advertise = () => {
               <h5>Force Majeure:</h5>
               <ul>
                 <li>
-                  <strong>Unforeseeable Circumstances:</strong> "Ghost" shall
+                  <strong>Unforeseeable Circumstances:</strong> "Irova" shall
                   not be liable for any failure to perform its obligations due
                   to circumstances beyond its reasonable control, including but
                   not limited to natural disasters, governmental actions, or

@@ -120,7 +120,7 @@ const Navbar = () => {
               >
                 <button className="ch-btn--transparent ch-header-btn"
                 id="ch-header-cta-btn">
-                I'm Ghost <img src="assets/ghost 8.png" height={"15px"} />
+                I'm Irova <img src="assets/ghost 8.png" height={"15px"} />
                 </button>
               </a>
             </li>
@@ -146,10 +146,10 @@ const Navbar = () => {
                     fontFamily: "'GT Maru', 'Nunito', sans-serif",
                     fontSize: "60px",
                   }}
-                  id="ghost"
+                  id="Irova"
                 >
                   {" "}
-                  Ghost : Protocol
+                  Irova : Cluster
                 </h1>
                 {/* <img
                   className="ch-landing-img ch-mount-animation--slide-bottom"
@@ -212,7 +212,7 @@ const Navbar = () => {
                       onClick={toggleClass}
                       style={{ lineHeight: "1" }}
                     >
-                      Get Ghost
+                      Get Irova
                     </button>
                   </a>
                 </div>
@@ -223,7 +223,7 @@ const Navbar = () => {
                     onClick={toggleClass}
                     style={{ lineHeight: "1" }}
                   >
-                    Get Ghost
+                    Get Irova
                   </button>
                 </div>
               </div>
@@ -332,7 +332,7 @@ const Navbar = () => {
             <li>
               <button class="ch-btn--transparent" onClick={toggleClass}>
                 {" "}
-                Get Ghost
+                Get Irova
               </button>
             </li>
           </a>
@@ -351,12 +351,12 @@ const Navbar = () => {
           </ul>
           <ul class="ch-footer-links ch-hamburger-social-links">
             <li>
-              <a href="https://twitter.com/ghostmsg">
+              <a href="https://twitter.com/Irovamsg">
                 <i className="fa fa-twitter"></i>
               </a>
             </li>
             <li>
-              <a href="https://www.instagram.com/ghostmsg/">
+              <a href="https://www.instagram.com/Irovamsg/">
                 <i className="fa fa-instagram"></i>
               </a>
             </li>

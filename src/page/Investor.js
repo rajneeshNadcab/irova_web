@@ -5,12 +5,12 @@ const Investor = () => {
     <>
       <Helmet>
         <title>
-          Invest in GhostApp - Join the Future of Secure Decentralized
+          Invest in Irova  cluster - Join the Future of Secure Decentralized
           Communication
         </title>
         <meta
           name="description"
-          content="Explore investment opportunities with GhostApp and become part of the future of secure decentralized communication. Learn how you can invest and contribute to the growth of our platform."
+          content="Explore investment opportunities with Irova  cluster and become part of the future of secure decentralized communication. Learn how you can invest and contribute to the growth of our platform."
         />
       </Helmet>
 
@@ -108,36 +108,36 @@ const Investor = () => {
               className="notion-header__title"
             >
               {" "}
-              Ghost App Investor Policy
+              Irova cluster Investor Policy
             </h3>
             <h4 style={{ marginBottom: "15px" }}>
-              Introduction to Investment Opportunity in Ghost App
+              Introduction to Investment Opportunity in Irova cluster
             </h4>
             <p style={{ marginLeft: "20px" }}>
-              Welcome to a prime investment opportunity with Ghost App, a
+              Welcome to a prime investment opportunity with Irova cluster, a
               trailblazing platform in the digital communication space. We're
               excited to present a unique chance for investors to be part of a
               revolutionary app that's redefining how people connect and
-              interact online. Ghost App, with its focus on decentralized,
+              interact online. Irova cluster, with its focus on decentralized,
               privacy-centric communication, is tapping into the growing global
               demand for secure digital interaction – a market need that has
               become increasingly critical in today’s digital-first world.
             </p>
             <p style={{ marginLeft: "20px" }}>
-              <strong>Investment Pitch: </strong>magine being a part of a
+              <strong>Investment Pitch: </strong>Imagine being a part of a
               venture that not only promises substantial financial returns but
               also contributes to a safer, more private online environment.
-              Ghost App is at the forefront of integrating cutting-edge
+              Irova cluster is at the forefront of integrating cutting-edge
               blockchain technology into everyday communication, offering a
               premium, encrypted service in a market that's rapidly expanding.
-              With rising concerns about digital privacy and security, Ghost App
+              With rising concerns about digital privacy and security, Irova cluster
               addresses these pain points by providing a solution that's both
               innovative and essential.
             </p>
             <p style={{ marginLeft: "20px" }}>
               <strong>Simplicity and Transparency:</strong> We believe in
               straightforward, transparent investment opportunities. That’s why
-              we're offering 30% of Ghost App's shares for a total of
+              we're offering 30% of Irova cluster's shares for a total of
               $1,000,000, available to a maximum of 100 investors. This
               opportunity isn't just an investment; it's a partnership with a
               forward-thinking company poised for significant growth in the tech
@@ -145,15 +145,15 @@ const Investor = () => {
             </p>
             <p style={{ marginLeft: "20px" }}>
               Join us in shaping the future of secure communication. Invest in
-              Ghost App, where cutting-edge technology meets growing market
+              Irova cluster, where cutting-edge technology meets growing market
               demand, creating a unique opportunity for both financial growth
               and contribution to enhancing online privacy and security.
             </p>
             <h4 style={{ margin: "15px 0px" }}>
-              Share Allocation and Cost for Ghost App Investment
+              Share Allocation and Cost for Irova cluster Investment
             </h4>
             <p style={{ marginLeft: "20px" }}>
-              Ghost App is excited to announce a strategically planned share
+              Irova cluster is excited to announce a strategically planned share
               allocation that balances exclusivity with accessibility. We are
               offering a substantial 30% share of our innovative platform,
               valued at a total of $1,000,000. This allocation is designed to
@@ -164,7 +164,7 @@ const Investor = () => {
               <strong>Investment Appeal:</strong> Imagine owning a part of a
               cutting-edge communication platform that's addressing some of
               today's most pressing digital concerns: privacy and secure
-              connectivity. By investing in Ghost App, you're not just buying
+              connectivity. By investing in Irova cluster, you're not just buying
               shares; you're becoming a part of a movement towards safer, more
               secure online interactions. This is a chance to be at the
               forefront of a significant shift in how digital communication is
@@ -181,7 +181,7 @@ const Investor = () => {
             </p>
             <p style={{ marginLeft: "20px" }}>
               <strong>Addressing the Market Demand:</strong> In a world where
-              digital privacy is increasingly valued, Ghost App stands as a
+              digital privacy is increasingly valued, Irova cluster stands as a
               solution to a growing market need. Your investment will directly
               contribute to further innovation and expansion of the app,
               aligning your financial goals with a product that meets a
@@ -195,15 +195,15 @@ const Investor = () => {
             </p>
             <h4 style={{ margin: "15px 0px" }}>
               {" "}
-              Investor Eligibility and Minimum Investment for Ghost App{" "}
+              Investor Eligibility and Minimum Investment for Irova cluster{" "}
             </h4>
             <p style={{ marginLeft: "20px" }}>
               As we open doors to a transformative investment opportunity with
-              Ghost App, we are committed to ensuring a harmonious alignment
+              Irova cluster, we are committed to ensuring a harmonious alignment
               between our investors and the app’s vision. This commitment is
               reflected in our investor eligibility criteria and minimum
               investment requirements, designed to foster a strong, mutually
-              beneficial relationship between Ghost App and its investors.
+              beneficial relationship between Irova cluster and its investors.
             </p>
             <p style={{ marginLeft: "20px" }}>
               <strong>Strategic Investor Selection:</strong> We are looking for
@@ -224,7 +224,7 @@ const Investor = () => {
             <p style={{ marginLeft: "20px" }}>
               <strong>Empowering Our Investors:</strong> By setting these
               criteria, we aim to empower our investors as key stakeholders in
-              the Ghost App. We believe that an investor who meets these
+              the Irova cluster. We believe that an investor who meets these
               requirements is likely to be more engaged, more supportive, and
               more aligned with the strategic direction of the app.
             </p>
@@ -232,7 +232,7 @@ const Investor = () => {
               <strong>A Partnership for Growth:</strong> Each investor's
               contribution goes beyond just financial support; it's a
               partnership that fuels the continuous growth and innovation of
-              Ghost App. Your investment will directly impact the development
+              Irova cluster. Your investment will directly impact the development
               and expansion of a platform poised to meet a critical,
               ever-growing demand for secure digital communication.
             </p>
@@ -240,13 +240,13 @@ const Investor = () => {
               In essence, our investor eligibility and minimum investment
               criteria are designed to create a strong, cohesive group of
               investors who are as passionate about and committed to the mission
-              and potential of Ghost App as we are.
+              and potential of Irova cluster as we are.
             </p>
             <h4 style={{ margin: "15px 0px" }}>
-              Monthly and Quarterly Reports for Ghost App Investors
+              Monthly and Quarterly Reports for Irova cluster Investors
             </h4>
             <p style={{ marginLeft: "20px" }}>
-              At Ghost App, transparency and collaboration are fundamental
+              At Irova cluster, transparency and collaboration are fundamental
               values that underpin our investor relations. We recognize that our
               investors deserve to be well-informed about the performance and
               progress of their investments. To achieve this, we have instituted
@@ -257,7 +257,7 @@ const Investor = () => {
               <p style={{ marginLeft: "20px" }}>
                 <strong>Monthly Reports:</strong>
                 <li style={{ marginLeft: "20px" }}>
-                  Our monthly reports are a detailed snapshot of Ghost App's
+                  Our monthly reports are a detailed snapshot of Irova cluster's
                   performance over the past month. These reports cover key
                   metrics such as user growth, feature updates, and notable
                   achievements. They offer a comprehensive view of the app's
@@ -272,7 +272,7 @@ const Investor = () => {
                 <li style={{ marginLeft: "20px" }}>
                   Alongside our monthly reports, we are proud to offer a
                   profit-sharing mechanism on a quarterly basis. These reports
-                  provide insights into the financial health of Ghost App,
+                  provide insights into the financial health of Irova cluster,
                   including revenue generated from premium subscriptions and
                   advertising. This is where investors can see the tangible
                   results of their investment.
@@ -284,7 +284,7 @@ const Investor = () => {
                   Our commitment to providing these reports is rooted in our
                   belief that informed investors make the best decisions. These
                   documents empower you with the data needed to evaluate the
-                  performance of your investment in Ghost App.
+                  performance of your investment in Irova cluster.
                 </li>
               </p>
               <p style={{ marginLeft: "20px" }}>
@@ -300,7 +300,7 @@ const Investor = () => {
               <p style={{ marginLeft: "20px" }}>
                 <strong>Invest with Confidence:</strong>
                 <li style={{ marginLeft: "20px" }}>
-                  With Ghost App, you can invest with confidence, knowing that
+                  With Irova cluster, you can invest with confidence, knowing that
                   your decision is supported by transparent, data-driven
                   insights. We are committed to your success as much as ours,
                   and these reports are a testament to that commitment.
@@ -310,17 +310,17 @@ const Investor = () => {
               <p>
                 In summary, our monthly and quarterly reports are designed to
                 keep you informed, engaged, and excited about your investment in
-                Ghost App, reflecting our dedication to a collaborative and
+                Irova cluster, reflecting our dedication to a collaborative and
                 transparent investor relationship.
               </p>
             </div>
             <div>
-              <h4>Profit Sharing Mechanism for Ghost App Investors</h4>
+              <h4>Profit Sharing Mechanism for Irova cluster Investors</h4>
               <div style={{ marginLeft: "20px" }}>
                 <p>
-                  At Ghost App, we're not just offering you an investment
+                  At Irova cluster, we're not just offering you an investment
                   opportunity; we're offering you a stake in our success. We
-                  believe that when our investors prosper, so does Ghost App. To
+                  believe that when our investors prosper, so does Irova cluster. To
                   make this a reality, we have devised a clear and equitable
                   profit-sharing mechanism that ensures you benefit directly
                   from the app's financial performance.
@@ -332,7 +332,7 @@ const Investor = () => {
                       Profits that will be shared with investors are calculated
                       after deducting operational and developmental costs. This
                       approach ensures that investors receive a share of the net
-                      profits generated by Ghost App.
+                      profits generated by Irova cluster.
                     </li>
                   </ul>
                 </p>
@@ -353,7 +353,7 @@ const Investor = () => {
                     <li>
                       We believe that aligning our interests with yours is key
                       to a successful partnership. By sharing profits, we ensure
-                      that our goals are intertwined – the better Ghost App
+                      that our goals are intertwined – the better Irova cluster
                       performs, the more our investors benefit.
                     </li>
                   </ul>
@@ -362,7 +362,7 @@ const Investor = () => {
                   <strong>Transparent Accounting:</strong>
                   <ul>
                     <li>
-                      Ghost App maintains a transparent and robust accounting
+                      Irova cluster maintains a transparent and robust accounting
                       system to calculate profits accurately. This system
                       guarantees that the profit-sharing process is fair,
                       reliable, and free from ambiguity.
@@ -374,7 +374,7 @@ const Investor = () => {
                   <ul>
                     <li>
                       By offering a profit-sharing mechanism, we aim to motivate
-                      our investors to actively participate in Ghost App's
+                      our investors to actively participate in Irova cluster's
                       journey of growth and innovation. Your investment not only
                       supports the app's development but also ensures you reap
                       the rewards of its success.
@@ -386,7 +386,7 @@ const Investor = () => {
                   <ul>
                     <li>
                       In essence, this profit-sharing mechanism reflects our
-                      belief in a shared future. When you invest in Ghost App,
+                      belief in a shared future. When you invest in Irova cluster,
                       you're not just supporting a project; you're investing in
                       a dynamic, evolving platform that promises significant
                       financial potential.
@@ -394,7 +394,7 @@ const Investor = () => {
                   </ul>
                 </p>
                 <p>
-                  Ghost App's profit-sharing mechanism is designed to be
+                  Irova cluster's profit-sharing mechanism is designed to be
                   transparent, equitable, and closely aligned with your
                   investment interests, making your journey as an investor as
                   rewarding as it is exciting.
@@ -402,21 +402,21 @@ const Investor = () => {
               </div>
             </div>
             <div>
-              <h4>Long-Term Investment Vision for Ghost App Investors</h4>
+              <h4>Long-Term Investment Vision for Irova cluster Investors</h4>
               <div style={{ marginLeft: "20px" }}>
                 <p>
-                  At Ghost App, we don't just think about the present; we
+                  At Irova cluster, we don't just think about the present; we
                   envision a future where secure, private, and decentralized
                   communication is the norm. Our long-term investment vision is
                   centered on a commitment to growth, innovation, and ensuring
-                  that your investment in Ghost App stands the test of time.
+                  that your investment in Irova cluster stands the test of time.
                 </p>
 
                 <strong>A Decentralized Revolution:</strong>
                 <ul>
                   <li>
                     Our vision extends beyond the immediate horizon. We see
-                    Ghost App as a pioneer in the decentralization of digital
+                    Irova cluster as a pioneer in the decentralization of digital
                     communication. With a focus on blockchain technology and
                     privacy-centric features, we aim to revolutionize the way
                     people connect online.
@@ -425,7 +425,7 @@ const Investor = () => {
                 <strong>Continuous Innovation:</strong>
                 <ul>
                   <li>
-                    Innovation is at the core of our long-term vision. Ghost App
+                    Innovation is at the core of our long-term vision. Irova cluster
                     will continually evolve, introducing cutting-edge features
                     and staying ahead of the curve in the digital communication
                     landscape. Your investment is an investment in ongoing
@@ -436,7 +436,7 @@ const Investor = () => {
                 <ul>
                   <li>
                     We have ambitious plans for global expansion, and we want
-                    our investors to grow with us. As Ghost App gains traction
+                    our investors to grow with us. As Irova cluster gains traction
                     worldwide, your investment will play a crucial role in
                     supporting our international journey.
                   </li>
@@ -453,7 +453,7 @@ const Investor = () => {
                 <strong>Community Building:</strong>
                 <ul>
                   <li>
-                    As Ghost App grows, so does our user community. We envision
+                    As Irova cluster grows, so does our user community. We envision
                     a thriving ecosystem where users value privacy and security
                     in their digital interactions. Your investment helps us
                     build and nurture this community.
@@ -462,7 +462,7 @@ const Investor = () => {
                 <strong>A Partner for the Future:</strong>
                 <ul>
                   <li>
-                    By investing in Ghost App, you become more than just a
+                    By investing in Irova cluster, you become more than just a
                     financial supporter; you become a partner in a shared
                     future. We are committed to fostering a strong, lasting
                     relationship with our investors, one that continues to grow
@@ -474,7 +474,7 @@ const Investor = () => {
                   <li>
                     Our long-term vision means that your investment has the
                     potential to benefit not just you but future generations. As
-                    Ghost App becomes a staple in digital communication, your
+                    Irova cluster becomes a staple in digital communication, your
                     stake in its success becomes increasingly valuable.
                   </li>
                 </ul>
@@ -483,21 +483,21 @@ const Investor = () => {
                   In summary, our long-term investment vision is about more than
                   just financial returns; it's about being part of a
                   transformative journey that shapes the future of digital
-                  communication. Your investment in Ghost App is an investment
+                  communication. Your investment in Irova cluster is an investment
                   in a brighter, more secure digital future.
                 </p>
               </div>
             </div>
 
             <div>
-              <h4>Terms and Conditions of Investment in Ghost App</h4>
+              <h4>Terms and Conditions of Investment in Irova cluster</h4>
 
               <div style={{ marginLeft: "20px" }}>
                 <p>
-                  Investing in Ghost App is an exciting opportunity, but it's
+                  Investing in Irova cluster is an exciting opportunity, but it's
                   essential to understand the terms and conditions that govern
                   this investment. By participating, you are entering into a
-                  partnership with Ghost App, and these terms and conditions
+                  partnership with Irova cluster, and these terms and conditions
                   outline the expectations, responsibilities, and rights of both
                   parties.
                 </p>
@@ -506,8 +506,8 @@ const Investor = () => {
                 </p>
                 <ul>
                   <li>
-                    To invest in Ghost App, you must meet eligibility criteria,
-                    including being a Ghost Premium subscriber. The minimum
+                    To invest in Irova cluster, you must meet eligibility criteria,
+                    including being a Irova Premium subscriber. The minimum
                     investment is $10,000.
                   </li>
                 </ul>
@@ -516,7 +516,7 @@ const Investor = () => {
                 </p>
                 <ul>
                   <li>
-                    Ghost App is offering 30% of its shares at a total cost of
+                    Irova cluster is offering 30% of its shares at a total cost of
                     $1,000,000. Shares will be allocated proportionally based on
                     the investment amount.
                   </li>
@@ -526,7 +526,7 @@ const Investor = () => {
                 </p>
                 <ul>
                   <li>
-                    Ghost App will provide monthly and quarterly reports to keep
+                    Irova cluster will provide monthly and quarterly reports to keep
                     investors informed about the app's performance, growth, and
                     financial results.
                   </li>
@@ -545,7 +545,7 @@ const Investor = () => {
                 </p>
                 <ul>
                   <li>
-                    Ghost App's long-term vision focuses on innovation, global
+                    Irova cluster's long-term vision focuses on innovation, global
                     expansion, and sustainable profitability. Investors are
                     aligned with this vision for long-term growth.
                   </li>
@@ -556,7 +556,7 @@ const Investor = () => {
                 </p>
                 <ul>
                   <li>
-                    Ghost App will provide support and resources to investors to
+                    Irova cluster will provide support and resources to investors to
                     ensure they have the information and tools needed for a
                     successful partnership.
                   </li>
@@ -566,7 +566,7 @@ const Investor = () => {
                 </p>
                 <ul>
                   <li>
-                    Ghost App reserves the right to modify the terms and
+                    Irova cluster reserves the right to modify the terms and
                     conditions. Any changes will be communicated to investors,
                     and continued participation constitutes acceptance.
                   </li>
@@ -596,7 +596,7 @@ const Investor = () => {
                 <ul>
                   <li>
                     Investors are responsible for ensuring compliance with
-                    relevant laws and regulations in their jurisdiction. Ghost
+                    relevant laws and regulations in their jurisdiction. Irova
                     App is not responsible for legal issues arising from
                     investments.
                   </li>
@@ -621,7 +621,7 @@ const Investor = () => {
                 </ul>
 
                 <p>
-                  By investing in Ghost App, you agree to abide by these terms
+                  By investing in Irova cluster, you agree to abide by these terms
                   and conditions. We encourage you to review them carefully and
                   seek legal advice if necessary to ensure a clear understanding
                   of your investment.
@@ -630,10 +630,10 @@ const Investor = () => {
             </div>
 
             <div>
-              <h4>Application Process for Investment in Ghost App</h4>
+              <h4>Application Process for Investment in Irova cluster</h4>
               <div style={{ marginLeft: "20px" }}>
                 <p>
-                  Investing in Ghost App is a straightforward process designed
+                  Investing in Irova cluster is a straightforward process designed
                   to make it accessible and convenient for potential investors.
                   Here is an overview of the application process:
                 </p>
@@ -643,7 +643,7 @@ const Investor = () => {
                 <ul>
                   <li>
                     Ensure that you meet the eligibility criteria, which include
-                    being a Ghost Premium subscriber and meeting the minimum
+                    being a Irova Premium subscriber and meeting the minimum
                     investment requirement of $10,000.
                   </li>
                 </ul>
@@ -652,7 +652,7 @@ const Investor = () => {
                 </p>
                 <ul>
                   <li>
-                    Express your interest in investing in Ghost App by
+                    Express your interest in investing in Irova cluster by
                     submitting an inquiry through our official platform or
                     contacting our designated investment support team.
                   </li>
@@ -664,7 +664,7 @@ const Investor = () => {
                   <li>
                     Upon expressing interest, you will receive a comprehensive
                     information package that includes detailed information about
-                    Ghost App, the investment opportunity, and the terms and
+                    Irova cluster, the investment opportunity, and the terms and
                     conditions.
                   </li>
                 </ul>
@@ -704,7 +704,7 @@ const Investor = () => {
                 </p>
                 <ul>
                   <li>
-                    Ghost App will review your application and allocate shares
+                    Irova cluster will review your application and allocate shares
                     proportionally based on the total investment amount and the
                     total cost of $1,000,000.
                   </li>
@@ -735,7 +735,7 @@ const Investor = () => {
                 <ul>
                   <li>
                     Fund your investment as per the agreement's instructions.
-                    This may involve transferring the investment amount to Ghost
+                    This may involve transferring the investment amount to Irova
                     App's designated account.
                   </li>
                 </ul>
@@ -744,7 +744,7 @@ const Investor = () => {
                 </p>
                 <ul>
                   <li>
-                    Upon successful funding, you will be welcomed into Ghost
+                    Upon successful funding, you will be welcomed into Irova
                     App's investor community. You will receive access to monthly
                     and quarterly reports and become part of our shared journey
                     toward success.
@@ -755,7 +755,7 @@ const Investor = () => {
                 </p>
                 <ul>
                   <li>
-                    Ghost App will provide ongoing support and resources to help
+                    Irova cluster will provide ongoing support and resources to help
                     you stay informed and engaged throughout your investment
                     journey.
                   </li>
@@ -765,7 +765,7 @@ const Investor = () => {
                 </p>
                 <ul>
                   <li>
-                    As profits are generated, Ghost App will distribute your
+                    As profits are generated, Irova cluster will distribute your
                     share based on the profit-sharing mechanism outlined in the
                     terms and conditions.
                   </li>
@@ -774,10 +774,10 @@ const Investor = () => {
             </div>
 
             <div>
-              <h4>Policy Amendments for Investment in Ghost App</h4>
+              <h4>Policy Amendments for Investment in Irova cluster</h4>
               <div style={{ marginLeft: "20px" }}>
                 <p>
-                  Ghost App is committed to maintaining transparency and
+                  Irova cluster is committed to maintaining transparency and
                   fairness in its investment policies. We understand that
                   changes may be necessary over time to adapt to evolving
                   circumstances. Here's how policy amendments are handled:
@@ -787,7 +787,7 @@ const Investor = () => {
                 </p>
                 <ul>
                   <li>
-                    In the event of any policy amendments, Ghost App will notify
+                    In the event of any policy amendments, Irova cluster will notify
                     all investors through official communication channels,
                     including email and the investor portal. It is the
                     responsibility of investors to regularly check for updates.
@@ -809,7 +809,7 @@ const Investor = () => {
                 </p>
                 <ul>
                   <li>
-                    Ghost App values the input of its investors. During the
+                    Irova cluster values the input of its investors. During the
                     review period, investors are encouraged to provide feedback,
                     ask questions, and seek clarification regarding the proposed
                     amendments.
@@ -841,7 +841,7 @@ const Investor = () => {
                 </p>
                 <ul>
                   <li>
-                    Ghost App is committed to open and continuous communication
+                    Irova cluster is committed to open and continuous communication
                     with its investors. We aim to provide a clear rationale for
                     any policy amendments and address investor concerns
                     promptly.
@@ -853,7 +853,7 @@ const Investor = () => {
                 <ul>
                   <li>
                     All policy amendments will be made in compliance with
-                    applicable legal and regulatory requirements. Ghost App
+                    applicable legal and regulatory requirements. Irova cluster
                     ensures that changes are aligned with the best interests of
                     its investors.
                   </li>
@@ -863,7 +863,7 @@ const Investor = () => {
                 </p>
                 <ul>
                   <li>
-                    Ghost App's approach to policy amendments is rooted in
+                    Irova cluster's approach to policy amendments is rooted in
                     fairness and transparency. We are dedicated to ensuring that
                     any changes benefit the overall investment community.
                   </li>
@@ -879,7 +879,7 @@ const Investor = () => {
                   </li>
                 </ul>
                 <p>
-                  By participating in Ghost App's investment program, investors
+                  By participating in Irova cluster's investment program, investors
                   acknowledge and accept the possibility of policy amendments
                   and the processes outlined above. These measures are in place
                   to maintain transparency and protect the interests of all

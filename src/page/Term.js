@@ -14,11 +14,11 @@ const Terms = () => {
     <>
       <Helmet>
         <title>
-          GhostApp Terms and Conditions - Secure Decentralized Communication
+          Irova  cluster Terms and Conditions - Secure Decentralized Communication
         </title>
         <meta
           name="description"
-          content="Review GhostApp's Terms and Conditions to understand the guidelines for using our secure and private decentralized communication platform. Stay informed about our policies."
+          content="Review Irova  cluster's Terms and Conditions to understand the guidelines for using our secure and private decentralized communication platform. Stay informed about our policies."
         />
       </Helmet>
 
@@ -129,30 +129,30 @@ const Terms = () => {
             </p>
             <div className="row">
               <div className="col-lg-12">
-                <h4 style={{ padding: "20px 0px" }}>Welcome to Ghost App</h4>
+                <h4 style={{ padding: "20px 0px" }}>Welcome to Irova cluster</h4>
                 <p>
-                  Welcome to Ghost, a pioneering platform where privacy meets
-                  innovation in communication. As a user of Ghost, you're
+                  Welcome to Irova, a pioneering platform where privacy meets
+                  innovation in communication. As a user of Irova, you're
                   stepping into a world where chatting, calling, video calling,
                   and streaming are seamlessly integrated with the advanced
                   security and privacy features of decentralized Web3
                   technology. Our service is designed to empower you with
                   control over your digital interactions, safeguarded by
                   state-of-the-art encryption and blockchain technology. By
-                  using Ghost, you are joining a community committed to
+                  using Irova, you are joining a community committed to
                   redefining the standards of digital communication. The
                   following Terms and Conditions are here to guide your
-                  experience on Ghost, ensuring a safe, respectful, and
+                  experience on Irova, ensuring a safe, respectful, and
                   enjoyable environment for all users. We encourage you to read
                   them carefully as they form the legal agreement between you
-                  and Ghost, outlining your rights and responsibilities as a
+                  and Irova, outlining your rights and responsibilities as a
                   valued member of our community.
                 </p>
                 <h4>2.Account Registration</h4>
                 <p>2.1 Account Creation and Web3 Wallet Login</p>
                 <p style={{ paddingLeft: "30px" }}>
                   To access and utilize the full suite of features offered by
-                  Ghost, users are required to register an account. Registration
+                  Irova, users are required to register an account. Registration
                   is uniquely facilitated through a Web3 wallet login, a
                   decentralized approach that enhances security and user
                   autonomy.
@@ -161,30 +161,30 @@ const Terms = () => {
                 <p style={{ paddingLeft: "30px" }}>
                   Upon registration, users will connect their Ethereum Virtual
                   Machine (EVM) compatible wallet. This wallet serves as your
-                  digital identity on Ghost, allowing for a secure and anonymous
+                  digital identity on Irova, allowing for a secure and anonymous
                   login experience without the need for traditional
                   username-password combinations.
                 </p>
                 <p>2.3 Responsibility for Wallet Security</p>
                 <p style={{ paddingLeft: "30px" }}>
-                  As your Ghost account is intrinsically linked to your Web3
+                  As your Irova account is intrinsically linked to your Web3
                   wallet, it is imperative that you maintain the security of
-                  your wallet credentials. Ghost is not responsible for managing
+                  your wallet credentials. Irova is not responsible for managing
                   wallet passwords or recovery phrases. Loss or compromise of
                   your wallet credentials may result in unauthorized access to
-                  your Ghost account.
+                  your Irova account.
                 </p>
                 <p>2.4 Wallet Compatibility and Updates</p>
                 <p style={{ paddingLeft: "30px" }}>
-                  Ghost supports various EVM-compatible wallets. It is the
+                  Irova supports various EVM-compatible wallets. It is the
                   user's responsibility to ensure that their wallet is
                   compatible with the app and to manage any updates or changes
                   to their wallet software.
                 </p>
                 <p>2.5 Data Linked to Your Wallet</p>
                 <p style={{ paddingLeft: "30px" }}>
-                  Any data or interactions on Ghost linked to your wallet
-                  address are under your control. Ghost does not access, use, or
+                  Any data or interactions on Irova linked to your wallet
+                  address are under your control. Irova does not access, use, or
                   store sensitive wallet information beyond what is necessary
                   for authentication and maintaining your account. Your
                   interactions within the app, such as messages or calls, are
@@ -195,13 +195,13 @@ const Terms = () => {
                   You are responsible for keeping your account information,
                   including your linked Web3 wallet, up to date. If you change
                   or update your wallet, you must promptly update your account
-                  information in Ghost to ensure uninterrupted access to the
+                  information in Irova to ensure uninterrupted access to the
                   app.
                 </p>
                 <p>2.7 Responsibility for Transactions</p>
                 <p style={{ paddingLeft: "30px" }}>
                   Transactions or interactions made through your wallet within
-                  the Ghost platform are your responsibility. Ghost does not
+                  the Irova platform are your responsibility. Irova does not
                   oversee or intervene in wallet-based transactions unless
                   required by law.
                 </p>
@@ -215,7 +215,7 @@ const Terms = () => {
                 <p>2.9 Decentralization and Autonomy</p>
                 <p style={{ paddingLeft: "30px" }}>
                   By using a Web3 wallet for account registration, you embrace
-                  the decentralized nature of Ghost. This means you have greater
+                  the decentralized nature of Irova. This means you have greater
                   control over your personal data and identity, in line with the
                   ethos of decentralized and blockchain-based platforms.
                 </p>
@@ -223,7 +223,7 @@ const Terms = () => {
                 <div>
                   <p>3.1 Acceptable Use of the App</p>
                   <p style={paragraphStyle}>
-                    Users of Ghost must engage in respectful and lawful behavior
+                    Users of Irova must engage in respectful and lawful behavior
                     when using the app. This includes adhering to all applicable
                     laws and regulations in your jurisdiction, and avoiding any
                     activities that could harm the app or its users.
@@ -253,7 +253,7 @@ const Terms = () => {
 
                   <p>3.3 Content Standards</p>
                   <p style={paragraphStyle}>
-                    All content shared on Ghost, such as messages, calls, or
+                    All content shared on Irova, such as messages, calls, or
                     media, must comply with these conduct standards. Users are
                     responsible for ensuring that their content does not violate
                     the rights of others or these terms.
@@ -262,7 +262,7 @@ const Terms = () => {
                   <p>3.4 Reporting Misconduct</p>
                   <p style={paragraphStyle}>
                     Users are encouraged to report any behavior or content that
-                    violates these terms. Ghost retains the right to investigate
+                    violates these terms. Irova retains the right to investigate
                     and take appropriate action, which may include removal of
                     content, suspension of services, or reporting to law
                     enforcement.
@@ -271,13 +271,13 @@ const Terms = () => {
                   <p>3.5 Responsibility for Your Conduct</p>
                   <p style={paragraphStyle}>
                     You are solely responsible for your actions while using
-                    Ghost. Violation of these conduct guidelines may result in
+                    Irova. Violation of these conduct guidelines may result in
                     temporary or permanent suspension of your access to the app.
                   </p>
 
                   <p>3.6 Contribution to a Positive Environment</p>
                   <p style={paragraphStyle}>
-                    We encourage users to contribute positively to the Ghost
+                    We encourage users to contribute positively to the Irova
                     community, fostering an environment of respect, privacy, and
                     security for all.
                   </p>
@@ -285,15 +285,15 @@ const Terms = () => {
                 <h4>4. Intellectual Property Rights</h4>
                 <p>4.1 Ownership of App Content</p>
                 <p style={paragraphStyle}>
-                  All content included in the Ghost app, such as text, graphics,
+                  All content included in the Irova cluster, such as text, graphics,
                   logos, images, as well as the software used, is the property
-                  of Ghost or its licensors and is protected by intellectual
+                  of Irova or its licensors and is protected by intellectual
                   property laws. This content may not be copied, modified, or
                   used without permission.
                 </p>
                 <p>4.2 User-Generated Content License</p>
                 <p style={paragraphStyle}>
-                  By posting or sharing content on Ghost, you grant the app a
+                  By posting or sharing content on Irova, you grant the app a
                   non-exclusive, royalty-free license to use, reproduce, modify,
                   and display this content in connection with the app's
                   services. You must own or have the rights to any content you
@@ -309,21 +309,21 @@ const Terms = () => {
                 <p>4.4 Reporting Intellectual Property Violations</p>
                 <p style={paragraphStyle}>
                   If you believe that your intellectual property rights have
-                  been infringed upon on Ghost, please contact us. We take such
+                  been infringed upon on Irova, please contact us. We take such
                   reports seriously and will investigate and take appropriate
                   action, which may include removing the infringing content.
                 </p>
                 <h4>5. Privacy and Data Use</h4>
                 <p>5.1 Commitment to User Privacy</p>
                 <p style={paragraphStyle}>
-                  Ghost prioritizes user privacy. We do not collect personal
+                  Irova prioritizes user privacy. We do not collect personal
                   data. All user data, including messages and call logs, is
                   stored locally on your device and is managed off-chain,
                   ensuring maximum privacy and security.
                 </p>
                 <p>5.2 User Behavior Analysis</p>
                 <p style={paragraphStyle}>
-                  To enhance the Ghost experience, we analyze user behavior
+                  To enhance the Irova experience, we analyze user behavior
                   within the app. This analysis is done in a way that respects
                   user privacy. We focus on general usage patterns and do not
                   link this information to individual users.
@@ -353,7 +353,7 @@ const Terms = () => {
 
                 <p>6.1 Service Uptime and Accessibility</p>
                 <p style={paragraphStyle}>
-                  While we aim to ensure that Ghost is available and accessible
+                  While we aim to ensure that Irova is available and accessible
                   at all times, we cannot guarantee uninterrupted service. Due
                   to the decentralized nature of the app, service availability
                   may be subject to fluctuations and dependencies beyond our
@@ -362,7 +362,7 @@ const Terms = () => {
 
                 <p>6.2 Maintenance and Updates</p>
                 <p style={paragraphStyle}>
-                  Ghost may undergo periodic maintenance or updates to enhance
+                  Irova may undergo periodic maintenance or updates to enhance
                   functionality, security, and overall user experience. We
                   strive to minimize any disruption but some downtime may be
                   necessary.
@@ -370,7 +370,7 @@ const Terms = () => {
 
                 <p>6.3 Access Limitations</p>
                 <p style={paragraphStyle}>
-                  Access to certain features or areas of Ghost may be restricted
+                  Access to certain features or areas of Irova may be restricted
                   based on factors like user location, compliance with legal
                   requirements, or user account status.
                 </p>
@@ -378,14 +378,14 @@ const Terms = () => {
                 <p>6.4 Changes to Service</p>
                 <p style={paragraphStyle}>
                   We reserve the right to modify, suspend, or discontinue any
-                  aspect of the Ghost service at any time, including features
+                  aspect of the Irova service at any time, including features
                   and support for specific devices or platforms.
                 </p>
 
                 <p>6.5 User Responsibility</p>
                 <p style={paragraphStyle}>
                   Users are responsible for ensuring their devices and software
-                  are compatible with Ghost and meet the necessary system
+                  are compatible with Irova and meet the necessary system
                   requirements for optimal app performance.
                 </p>
 
@@ -400,7 +400,7 @@ const Terms = () => {
 
                 <p>7.1 Right to Modify Services</p>
                 <p style={paragraphStyle}>
-                  Ghost reserves the right to modify or update the app and its
+                  Irova reserves the right to modify or update the app and its
                   services at any time. This includes making improvements,
                   adding new features, or adjusting existing functionalities to
                   enhance user experience or comply with legal requirements.
@@ -424,7 +424,7 @@ const Terms = () => {
 
                 <p>7.4 User Acceptance of Changes</p>
                 <p style={paragraphStyle}>
-                  Continued use of the Ghost app after changes to the services
+                  Continued use of the Irova cluster after changes to the services
                   or Terms and Conditions will constitute acceptance of the new
                   terms. Users are encouraged to review the updated terms
                   periodically to stay informed.
@@ -432,7 +432,7 @@ const Terms = () => {
 
                 <p>7.5 Feedback on Changes</p>
                 <p style={paragraphStyle}>
-                  We welcome user feedback regarding any changes to the Ghost
+                  We welcome user feedback regarding any changes to the Irova
                   app or its terms. User input is valuable for continuous
                   improvement and user satisfaction.
                 </p>
@@ -448,7 +448,7 @@ const Terms = () => {
 
                 <p>8.1 Integration of Third-Party Services</p>
                 <p style={paragraphStyle}>
-                  Ghost may incorporate or offer access to services provided by
+                  Irova may incorporate or offer access to services provided by
                   third parties. These services can enhance your experience but
                   are governed by their own terms and privacy policies.
                 </p>
@@ -456,7 +456,7 @@ const Terms = () => {
                 <p>8.2 No Endorsement of Third-Party Content</p>
                 <p style={paragraphStyle}>
                   The inclusion of third-party services does not imply an
-                  endorsement or verification by Ghost. We are not responsible
+                  endorsement or verification by Irova. We are not responsible
                   for the examination or evaluation of such services.
                 </p>
 
@@ -471,7 +471,7 @@ const Terms = () => {
 
                 <p>8.4 Disclaimer for Third-Party Links</p>
                 <p style={paragraphStyle}>
-                  Ghost may contain links to external sites or resources. These
+                  Irova may contain links to external sites or resources. These
                   links are provided for convenience, and we are not responsible
                   for the content, products, or services on or available from
                   those sites or resources.
@@ -481,12 +481,12 @@ const Terms = () => {
                 <p style={paragraphStyle}>
                   Users should exercise caution and read the terms and privacy
                   policies of any third-party websites or services that they
-                  access through Ghost.
+                  access through Irova.
                 </p>
                 <h4>9. Fees, Payments, and Subscriptions</h4>
                 <p>9.1 Applicability of Fees</p>
                 <p>
-                  If Ghost offers premium or subscription-based services,
+                  If Irova offers premium or subscription-based services,
                   details about the fees and payment terms for these services
                   will be outlined in this section. Users will be informed of
                   any charges before they incur them.
@@ -518,7 +518,7 @@ const Terms = () => {
 
                 <p>9.5 Changes in Fees</p>
                 <p>
-                  Ghost reserves the right to change any fees or charges for its
+                  Irova reserves the right to change any fees or charges for its
                   services. Users will be notified of any changes in pricing,
                   with adequate notice given before any new charges are applied.
                 </p>
@@ -534,14 +534,14 @@ const Terms = () => {
                 <p>10.1 Ownership and Responsibility for Content</p>
                 <p>
                   You retain ownership of the content you create and share on
-                  Ghost. However, you are responsible for ensuring that your
+                  Irova. However, you are responsible for ensuring that your
                   content complies with these Terms and Conditions and does not
                   infringe on any laws or rights of others.
                 </p>
 
-                <p>10.2 Content License to Ghost</p>
+                <p>10.2 Content License to Irova</p>
                 <p>
-                  By posting content on Ghost, you grant the app a
+                  By posting content on Irova, you grant the app a
                   non-exclusive, worldwide, royalty-free license to use,
                   display, and distribute this content in connection with the
                   app's services. This does not affect your ownership rights.
@@ -557,7 +557,7 @@ const Terms = () => {
 
                 <p>10.4 Reporting and Removal of Content</p>
                 <p>
-                  Ghost reserves the right to remove any content that violates
+                  Irova reserves the right to remove any content that violates
                   these Terms or is deemed harmful to the app or its users.
                   Users are encouraged to report any such content for review.
                 </p>
@@ -565,22 +565,22 @@ const Terms = () => {
                 <p>10.5 User Interactions</p>
                 <p>
                   You are solely responsible for your interactions with other
-                  users on Ghost. The app is not responsible for the conduct of
+                  users on Irova. The app is not responsible for the conduct of
                   any user or the content they share.
                 </p>
 
                 <p>10.6 Content Backup</p>
                 <p>
-                  While Ghost takes measures to protect user data, it is
+                  While Irova takes measures to protect user data, it is
                   recommended that you maintain your own backup of important
-                  content. Ghost is not responsible for any loss or damage to
+                  content. Irova is not responsible for any loss or damage to
                   user content.
                 </p>
                 <h4>11. Termination and Suspension of Accounts</h4>
 
                 <p>11.1 Right to Terminate</p>
                 <p>
-                  Ghost reserves the right to terminate or suspend your account
+                  Irova reserves the right to terminate or suspend your account
                   at any time for any reason, including but not limited to
                   violations of these Terms and Conditions, illegal or harmful
                   behavior, or security risks.
@@ -596,14 +596,14 @@ const Terms = () => {
                 <p>11.3 Effect of Termination</p>
                 <p>
                   Upon termination, your account will be deactivated, and you
-                  may lose access to all services and content within Ghost.
+                  may lose access to all services and content within Irova.
                   Certain provisions of these Terms may still apply
                   post-termination.
                 </p>
 
                 <p>11.4 Data Retention Post-Termination</p>
                 <p>
-                  After account termination, Ghost may retain some of your data
+                  After account termination, Irova may retain some of your data
                   as necessary to comply with legal obligations, resolve
                   disputes, or enforce agreements. However, your data will not
                   be used for operational purposes.
@@ -611,7 +611,7 @@ const Terms = () => {
 
                 <p>11.5 Notification of Termination</p>
                 <p>
-                  In case of planned termination of your account by Ghost, you
+                  In case of planned termination of your account by Irova, you
                   will be notified with the reason for termination and, where
                   applicable, given an opportunity to address the issues leading
                   to the termination.
@@ -620,14 +620,14 @@ const Terms = () => {
                 <p>11.6 Appeals Process</p>
                 <p>
                   If you believe your account was wrongly terminated, you may
-                  contact Ghost to appeal the decision. The process for appeals
+                  contact Irova to appeal the decision. The process for appeals
                   will be outlined in this section.
                 </p>
                 <h4>12. Disclaimers and Limitations of Liability</h4>
 
                 <p>12.1 "As Is" and "As Available"</p>
                 <p style={paragraphStyle}>
-                  Ghost is provided on an "as is" and "as available" basis
+                  Irova is provided on an "as is" and "as available" basis
                   without any warranties of any kind, either express or implied,
                   including, but not limited to, implied warranties of
                   merchantability, fitness for a particular purpose, or
@@ -637,13 +637,13 @@ const Terms = () => {
                 <p>12.2 No Guarantee of Accuracy</p>
                 <p style={paragraphStyle}>
                   We do not warrant the accuracy, completeness, or usefulness of
-                  the information available on Ghost. Any reliance you place on
+                  the information available on Irova. Any reliance you place on
                   such information is strictly at your own risk.
                 </p>
 
                 <p>12.3 Limitation of Liability</p>
                 <p style={paragraphStyle}>
-                  To the fullest extent permitted by applicable law, Ghost shall
+                  To the fullest extent permitted by applicable law, Irova shall
                   not be liable for any indirect, incidental, special,
                   consequential, or punitive damages, or any loss of profits or
                   revenues, whether incurred directly or indirectly, or any loss
@@ -657,7 +657,7 @@ const Terms = () => {
                 <p>12.4 Jurisdictional Limitations</p>
                 <p style={paragraphStyle}>
                   The limitations of liability set forth above are fundamental
-                  elements of the basis of the bargain between Ghost and you.
+                  elements of the basis of the bargain between Irova and you.
                   Some jurisdictions do not allow the exclusion of certain
                   warranties or the limitation or exclusion of liability for
                   incidental or consequential damages, so the above limitations
@@ -666,7 +666,7 @@ const Terms = () => {
 
                 <p>12.5 Indemnification</p>
                 <p style={paragraphStyle}>
-                  You agree to indemnify and hold harmless Ghost and its
+                  You agree to indemnify and hold harmless Irova and its
                   officers, directors, employees, and agents from and against
                   any claims, disputes, demands, liabilities, damages, losses,
                   and costs and expenses, including, without limitation,
@@ -678,12 +678,12 @@ const Terms = () => {
 
                 <p>13.1 Indemnity by Users</p>
                 <p style={paragraphStyle}>
-                  You agree to indemnify, defend, and hold harmless Ghost and
+                  You agree to indemnify, defend, and hold harmless Irova and
                   its affiliates, officers, agents, employees, partners, and
                   licensors from any claim or demand, including reasonable
                   attorneys' fees, made by any third party due to or arising out
-                  of your content, your use of the Ghost app, your connection to
-                  the Ghost app, your violation of these Terms and Conditions,
+                  of your content, your use of the Irova cluster, your connection to
+                  the Irova cluster, your violation of these Terms and Conditions,
                   or your violation of any rights of another.
                 </p>
 
@@ -697,8 +697,8 @@ const Terms = () => {
                 <p>13.3 Procedure for Claim and Indemnification</p>
                 <p style={paragraphStyle}>
                   In the event of a claim that necessitates indemnification,
-                  Ghost will provide you with notice of the claim. You will then
-                  be required to cooperate with us in defending the claim. Ghost
+                  Irova will provide you with notice of the claim. You will then
+                  be required to cooperate with us in defending the claim. Irova
                   reserves the right, at your expense, to assume the exclusive
                   defense and control of any matter subject to indemnification
                   by you.
@@ -706,8 +706,8 @@ const Terms = () => {
 
                 <p>13.4 Limitations on Indemnification</p>
                 <p style={paragraphStyle}>
-                  While Ghost requires indemnification to cover potential
-                  losses, this shall not be construed to absolve Ghost of its
+                  While Irova requires indemnification to cover potential
+                  losses, this shall not be construed to absolve Irova of its
                   own duties and responsibilities as per the terms outlined in
                   this agreement and applicable law.
                 </p>
@@ -715,9 +715,9 @@ const Terms = () => {
 
                 <p>14.1 Governing Law</p>
                 <p style={paragraphStyle}>
-                  These Terms and Conditions, and your use of the Ghost app,
+                  These Terms and Conditions, and your use of the Irova cluster,
                   shall be governed by and construed in accordance with the laws
-                  of the jurisdiction in which Ghost operates, without regard to
+                  of the jurisdiction in which Irova operates, without regard to
                   its conflict of law provisions.
                 </p>
 
@@ -744,14 +744,14 @@ const Terms = () => {
 
                 <p>14.4 Waiver of Class Action</p>
                 <p style={paragraphStyle}>
-                  You agree to resolve any disputes with Ghost on an individual
+                  You agree to resolve any disputes with Irova on an individual
                   basis and waive any right to a class action or any other
                   collective proceeding.
                 </p>
 
                 <p>14.5 Jurisdiction for Legal Disputes</p>
                 <p style={paragraphStyle}>
-                  Notwithstanding the above, you agree that Ghost shall still be
+                  Notwithstanding the above, you agree that Irova shall still be
                   allowed to apply for injunctive remedies (or an equivalent
                   type of urgent legal relief) in any jurisdiction.
                 </p>
@@ -759,7 +759,7 @@ const Terms = () => {
 
                 <p>15.1 Encouragement of User Feedback</p>
                 <p style={paragraphStyle}>
-                  Ghost encourages feedback, comments, and suggestions for
+                  Irova encourages feedback, comments, and suggestions for
                   improvements to the app ("Feedback"). Your insights and
                   opinions are valuable to us for enhancing the app’s features
                   and user experience.
@@ -777,7 +777,7 @@ const Terms = () => {
 
                 <p>15.3 Use of Feedback</p>
                 <p style={paragraphStyle}>
-                  The Ghost app has the freedom to use, reproduce, modify, and
+                  The Irova cluster has the freedom to use, reproduce, modify, and
                   distribute your Feedback without any obligation to compensate
                   you. This may include developing and marketing products or
                   services incorporating such Feedback.
@@ -820,21 +820,21 @@ const Terms = () => {
                 <p style={paragraphStyle}>
                   You may not assign your rights or obligations under these
                   Terms and Conditions without the prior written consent of
-                  Ghost. However, Ghost may assign its rights and obligations
+                  Irova. However, Irova may assign its rights and obligations
                   under these Terms without restriction.
                 </p>
 
                 <p>16.4 Entire Agreement</p>
                 <p style={paragraphStyle}>
                   These Terms and Conditions, together with the Privacy Policy
-                  and any other legal notices published by Ghost on the app,
-                  shall constitute the entire agreement between you and Ghost
+                  and any other legal notices published by Irova on the app,
+                  shall constitute the entire agreement between you and Irova
                   concerning the app.
                 </p>
 
                 <p>16.5 Changes to General Provisions</p>
                 <p style={paragraphStyle}>
-                  Ghost reserves the right to make changes to these General
+                  Irova reserves the right to make changes to these General
                   Provisions. Any changes will be communicated through the app
                   or other means to ensure users are aware of the updates.
                 </p>
@@ -842,7 +842,7 @@ const Terms = () => {
 
                 <p>17.1 Contact Details for Inquiries and Support</p>
                 <p style={paragraphStyle}>
-                  For any questions or concerns regarding the Ghost app, its
+                  For any questions or concerns regarding the Irova cluster, its
                   functionalities, or these Terms and Conditions, users are
                   encouraged to contact our support team. The necessary contact
                   details, including email address and, if applicable, phone
@@ -876,7 +876,7 @@ const Terms = () => {
 
                 <p>17.5 Updates to Contact Information</p>
                 <p style={paragraphStyle}>
-                  Ghost reserves the right to update or change the provided
+                  Irova reserves the right to update or change the provided
                   contact information as necessary. Any changes will be
                   communicated through the app or other appropriate channels.
                 </p>
@@ -885,7 +885,7 @@ const Terms = () => {
                 <p>18.1 Effective Date</p>
                 <p style={paragraphStyle}>
                   These Terms and Conditions become effective as of [Insert
-                  Effective Date] and apply to all use of the Ghost app from
+                  Effective Date] and apply to all use of the Irova cluster from
                   this date forward. This date marks the point from which all
                   terms are applicable and enforceable.
                 </p>
@@ -894,12 +894,12 @@ const Terms = () => {
                 <p style={paragraphStyle}>
                   If there are any prior versions of these Terms and Conditions,
                   they are superseded by this current version. Users can request
-                  previous versions for reference by contacting Ghost support.
+                  previous versions for reference by contacting Irova support.
                 </p>
 
                 <p>18.3 Amendments to Terms</p>
                 <p style={paragraphStyle}>
-                  Ghost reserves the right to amend or update these Terms and
+                  Irova reserves the right to amend or update these Terms and
                   Conditions at any time. Changes will reflect evolving legal
                   requirements, technological advancements, or improvements in
                   user experience.
@@ -910,12 +910,12 @@ const Terms = () => {
                   Users will be notified of any significant changes to the Terms
                   and Conditions. Notification may be done through the app, via
                   email, or other communication methods deemed appropriate by
-                  Ghost.
+                  Irova.
                 </p>
 
                 <p>18.5 Acceptance of Amended Terms</p>
                 <p style={paragraphStyle}>
-                  Continued use of the Ghost app after changes to these Terms
+                  Continued use of the Irova cluster after changes to these Terms
                   and Conditions have been made and communicated will be
                   regarded as acceptance of the amended terms. Users are
                   encouraged to review the Terms regularly to stay informed of
@@ -926,7 +926,7 @@ const Terms = () => {
                 <p>19.1 Availability for Inquiries</p>
                 <p style={paragraphStyle}>
                   Should you have any questions, concerns, or need support
-                  regarding the Ghost app or these Terms and Conditions, we
+                  regarding the Irova cluster or these Terms and Conditions, we
                   encourage you to reach out to us. Our dedicated team is
                   available to provide assistance and address your needs.
                 </p>
@@ -935,7 +935,7 @@ const Terms = () => {
                 <p style={paragraphStyle}>
                   You can contact us via the provided email address, phone
                   number, or through the in-app support feature. The specific
-                  contact details are available within the Ghost app and on our
+                  contact details are available within the Irova cluster and on our
                   official website.
                 </p>
 
@@ -949,7 +949,7 @@ const Terms = () => {
                 <p>19.4 Feedback and Suggestions</p>
                 <p style={paragraphStyle}>
                   We welcome and value your feedback or suggestions about the
-                  Ghost app. Please feel free to share your thoughts with us, as
+                  Irova cluster. Please feel free to share your thoughts with us, as
                   they are crucial in helping us improve our service.
                 </p>
 
@@ -964,10 +964,10 @@ const Terms = () => {
 
                 <p>20.1 Acknowledgment of Terms</p>
                 <p style={paragraphStyle}>
-                  By downloading, accessing, or using the Ghost app, you
+                  By downloading, accessing, or using the Irova cluster, you
                   acknowledge that you have read, understood, and agree to be
                   bound by these Terms and Conditions. This acknowledgment forms
-                  a binding legal agreement between you and the Ghost app.
+                  a binding legal agreement between you and the Irova cluster.
                 </p>
 
                 <p>20.2 Acceptance of Terms</p>
@@ -975,7 +975,7 @@ const Terms = () => {
                   Your continued use of the app signifies your acceptance of
                   these Terms and Conditions and any updates or modifications
                   made to them. If you do not agree to the terms, you should
-                  discontinue the use of the Ghost app immediately.
+                  discontinue the use of the Irova cluster immediately.
                 </p>
 
                 <p>20.3 Responsibility to Review Terms</p>
@@ -983,13 +983,13 @@ const Terms = () => {
                   Users are responsible for regularly reviewing these Terms and
                   Conditions. We will endeavor to notify you of any significant
                   changes, but it remains your responsibility to stay informed
-                  about the terms governing your use of Ghost.
+                  about the terms governing your use of Irova.
                 </p>
 
                 <p>20.4 Binding Agreement</p>
                 <p style={paragraphStyle}>
                   These Terms and Conditions constitute a binding legal
-                  agreement between you as the user and the Ghost app. By using
+                  agreement between you as the user and the Irova cluster. By using
                   the app, you represent that you have the authority to enter
                   into this agreement and abide by its terms.
                 </p>
@@ -997,7 +997,7 @@ const Terms = () => {
 
                 <p>21.1 Continuous Improvement</p>
                 <p style={paragraphStyle}>
-                  Ghost is committed to continuous improvement and innovation.
+                  Irova is committed to continuous improvement and innovation.
                   We may introduce new features, updates, or enhancements to the
                   app, which are aimed at enriching the user experience and
                   expanding functionalities.
@@ -1015,12 +1015,12 @@ const Terms = () => {
                 <p style={paragraphStyle}>
                   We encourage user feedback on any new features or updates.
                   Your opinions and experiences are valuable to us and can guide
-                  future developments and enhancements of the Ghost app.
+                  future developments and enhancements of the Irova cluster.
                 </p>
 
                 <p>21.4 Adaptability to Changes</p>
                 <p style={paragraphStyle}>
-                  As technology and user needs evolve, Ghost is committed to
+                  As technology and user needs evolve, Irova is committed to
                   adapting and evolving in tandem. We ensure that our app
                   remains relevant, secure, and user-friendly, aligning with the
                   latest trends and user expectations.

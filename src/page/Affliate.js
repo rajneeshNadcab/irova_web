@@ -5,12 +5,12 @@ const Affliate = () => {
     <>
       <Helmet>
         <title>
-          GhostApp Affiliate Program - Earn with Secure Decentralized
+          Irova  cluster Affiliate Program - Earn with Secure Decentralized
           Communication
         </title>
         <meta
           name="description"
-          content="Join the GhostApp Affiliate Program and start earning by promoting our secure decentralized communication platform. Learn how you can benefit from our affiliate program."
+          content="Join the Irova  cluster Affiliate Program and start earning by promoting our secure decentralized communication platform. Learn how you can benefit from our affiliate program."
         />
       </Helmet>
 
@@ -115,7 +115,7 @@ const Affliate = () => {
               }}
               id="tit"
             >
-              Ghost App Affiliate Program for Ghost Premium
+              Irova cluster Affiliate Program for Irova Premium
             </h3>
             <div
               id="affliate"
@@ -135,14 +135,14 @@ const Affliate = () => {
                 </h5>
                 <ul>
                   <li>
-                    Welcome to the Ghost App Affiliate Program, specifically
-                    designed for promoting our Ghost Premium service. This
+                    Welcome to the Irova cluster Affiliate Program, specifically
+                    designed for promoting our Irova Premium service. This
                     program is a unique opportunity for our users to become
                     brand ambassadors and earn by referring new subscribers to
                     our premium offering.
                   </li>
                   <li>
-                    Ghost Premium, priced at $50 equivalent in USDT, ETH, BNB,
+                    Irova Premium, priced at $50 equivalent in USDT, ETH, BNB,
                     or MATIC, offers enhanced features such as advanced
                     encryption, additional privacy options, and exclusive
                     content access.
@@ -160,7 +160,7 @@ const Affliate = () => {
                       2.1. Exclusive Eligibility for Premium Subscribers:
                     </strong>{" "}
                     The affiliate program is exclusively available to users who
-                    are already subscribed to Ghost Premium. This ensures that
+                    are already subscribed to Irova Premium. This ensures that
                     our affiliates are genuine users who understand and
                     appreciate the value of the service they are promoting.
                   </li>
@@ -169,9 +169,9 @@ const Affliate = () => {
                       2.2. Registration for the Program:
                     </strong>{" "}
                     Interested premium subscribers must apply to the affiliate
-                    program through the Ghost App or the official website.
+                    program through the Irova cluster or the official website.
                     Approval of applications will be based on compliance with
-                    program guidelines and the user's standing as a Ghost
+                    program guidelines and the user's standing as a Irova
                     Premium subscriber.
                   </li>
                   <li>
@@ -195,9 +195,9 @@ const Affliate = () => {
                     <strong style={{ fontWeight: "600" }}>
                       3.1 Commission for Premium Subscribers:
                     </strong>{" "}
-                    Affiliates who are Ghost Premium subscribers will earn a 20%
+                    Affiliates who are Irova Premium subscribers will earn a 20%
                     commission for each successful referral. This translates to
-                    $10 for every new Ghost Premium subscription acquired
+                    $10 for every new Irova Premium subscription acquired
                     through their referral link.
                   </li>
                   <li>
@@ -220,7 +220,7 @@ const Affliate = () => {
                     <strong style={{ fontWeight: "600" }}>
                       4.1 Efficient Tracking System:
                     </strong>{" "}
-                    The Ghost App employs a reliable system to track referrals
+                    The Irova cluster employs a reliable system to track referrals
                     via the unique links provided to affiliates. This ensures
                     transparency and accuracy in the commission process.
                   </li>
@@ -230,7 +230,7 @@ const Affliate = () => {
                     </strong>{" "}
                     To be eligible for a commission, referred subscriptions must
                     be verified, confirming that the new subscriber has fully
-                    paid for the Ghost Premium service and adheres to the
+                    paid for the Irova Premium service and adheres to the
                     subscription terms.
                   </li>
                 </ul>
@@ -280,10 +280,10 @@ const Affliate = () => {
 
               <div style={{ paddingLeft: "49px" }}>
                 <p>
-                  This section of the Ghost App's Affiliate Program policy
+                  This section of the Irova cluster's Affiliate Program policy
                   outlines the support and resources provided to affiliates,
                   ensuring they have the tools and knowledge needed to
-                  successfully promote Ghost Premium:
+                  successfully promote Irova Premium:
                 </p>
 
                 <ul style={{ listStyle: "none" }}>
@@ -291,7 +291,7 @@ const Affliate = () => {
                     <strong style={{ fontWeight: "600" }}>
                       1. Dedicated Support:
                     </strong>{" "}
-                    Affiliates have access to dedicated support from the Ghost
+                    Affiliates have access to dedicated support from the Irova
                     team. This includes assistance with using the affiliate
                     system, understanding the payment process, and addressing
                     any issues that arise.
@@ -300,10 +300,10 @@ const Affliate = () => {
                     <strong style={{ fontWeight: "600" }}>
                       2. Marketing Materials:
                     </strong>{" "}
-                    Ghost provides a range of marketing materials to affiliates,
+                    Irova provides a range of marketing materials to affiliates,
                     such as banners, graphics, and text templates. These
                     resources are designed to help affiliates effectively
-                    promote Ghost Premium while maintaining brand consistency.
+                    promote Irova Premium while maintaining brand consistency.
                   </li>
                   <li style={{ paddingBottom: "10px" }}>
                     <strong style={{ fontWeight: "600" }}>
@@ -312,7 +312,7 @@ const Affliate = () => {
                     The program offers educational content to help affiliates
                     maximize their earning potential. This includes tips on
                     digital marketing, best practices for engaging potential
-                    subscribers, and updates on new features of Ghost Premium.
+                    subscribers, and updates on new features of Irova Premium.
                   </li>
                   <li style={{ paddingBottom: "10px" }}>
                     <strong style={{ fontWeight: "600" }}>
@@ -327,7 +327,7 @@ const Affliate = () => {
                     <strong style={{ fontWeight: "600" }}>
                       5. Regular Updates:
                     </strong>{" "}
-                    The Ghost team regularly updates affiliates on program
+                    The Irova team regularly updates affiliates on program
                     changes, new marketing strategies, and insights into
                     subscriber preferences and trends. This keeps affiliates
                     informed and aligned with the app's goals.
@@ -346,7 +346,7 @@ const Affliate = () => {
                       7. Feedback Loop:
                     </strong>{" "}
                     Affiliates are encouraged to provide feedback on the
-                    program. This feedback is crucial for Ghost to continually
+                    program. This feedback is crucial for Irova to continually
                     improve the affiliate experience and address any challenges
                     faced by affiliates.
                   </li>
