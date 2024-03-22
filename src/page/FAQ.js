@@ -117,66 +117,66 @@ const FAQ = () => {
               style={{ display: "flex", flexDirection: "column" }}
             >
               <p>
-                <a href="">What is an "Irova Cluster"?</a>
+                <a href="#irova-cluster-purpose">What is an "Irova Cluster"?</a>
               </p>
               <p>
-                <a href="">
+                <a href="#data-storage-management">
                   Why does Irova install a cluster during installation?
                 </a>
               </p>
               <p>
-                <a href="">How does the Irova Cluster enhance data security?</a>
+                <a href="#security-protocols">How does the Irova Cluster enhance data security?</a>
               </p>
               <p>
-                <a href="">Can I manage my Irova Cluster settings?</a>
+                <a href="#irova-cluster-iroha-interaction">Can I manage my Irova Cluster settings?</a>
               </p>
               <p>
-                <a href="">
+                <a href="#irova-cluster-innovations">
                   How does the cluster contribute to the overall performance of
                   Irova?
                 </a>
               </p>
               <p>
-                <a href="">What data is stored in the Irova Cluster?</a>
+                <a href="#data-control">What data is stored in the Irova Cluster?</a>
               </p>
               <p>
-                <a href="">
+                <a href="#irova-cluster-reward-system">
                   How is data synchronized between the Irova Cluster and the
                   blockchain?
                 </a>
               </p>
               <p>
-                <a href="">
+                <a href="#irova-cluster-performance-scalability">
                   Are there any backup options for the Irova Cluster?
                 </a>
               </p>
               <p>
-                <a href="">
+                <a href="#irova-cluster-tech-integration">
                   What happens if I lose access to my Irova Cluster?
                 </a>
               </p>
               <p>
-                <a href="">
+                <a href="#irova-cluster-real-time-communication">
                   How does the cluster handle large files and multimedia?
                 </a>
               </p>
               <p>
-                <a href="">Does the Irova Cluster require maintenance?</a>
+                <a href="#irova-cluster-data-redundancy-backup">Does the Irova Cluster require maintenance?</a>
               </p>
               <p>
-                <a href="">Can I opt out of using the Irova Cluster?</a>
+                <a href="#irova-cluster-data-synchronization">Can I opt out of using the Irova Cluster?</a>
               </p>
               <p>
-                <a href="">
+                <a href="#irova-cluster-feature-integration">
                   How does the cluster affect the app's battery and storage
                   usage?
                 </a>
               </p>
               <p>
-                <a href="">Is the cluster technology unique to Irova?</a>
+                <a href="#irova-cluster-environmental-considerations">Is the cluster technology unique to Irova?</a>
               </p>
               <p>
-                <a href="">
+                <a href="#irova-cluster-global-privacy-compliance">
                   How does the cluster support the app's encryption and
                   compression techniques?
                 </a>
@@ -191,49 +191,49 @@ const FAQ = () => {
               style={{ display: "flex", flexDirection: "column" }}
             >
               <p>
-                <a href="">What encryption methods does Irova use?</a>
+                <a href="#encryption-methodologies">What encryption methods does Irova use?</a>
               </p>
               <p>
-                <a href="">How does Irova compress data?</a>
+                <a href="#data-compression-technique">How does Irova compress data?</a>
               </p>
               <p>
-                <a href="">
+                <a href="#three-layer-encryption">
                   What are the benefits of three-layer cryptographic encryption?
                 </a>
               </p>
               <p>
-                <a href="">
+                <a href="#data-integrity-tampering-prevention">
                   Can encrypted data be accessed by Irova or third parties?
                 </a>
               </p>
               <p>
-                <a href="">
+                <a href="#encryption-compression-privacy">
                   How does compression affect the quality of images and videos?
                 </a>
               </p>
               <p>
-                <a href="">
+                <a href="#blockchain-complement-encryption-compression">
                   What types of data does Irova encrypt and compress?
                 </a>
               </p>
               <p>
-                <a href="">
+                <a href="#real-time-encryption-compression">
                   How do encryption and compression contribute to user privacy?
                 </a>
               </p>
               <p>
-                <a href="">
+                <a href="#encryption-security-performance-balance">
                   Are there any options to customize encryption settings?
                 </a>
               </p>
               <p>
-                <a href="">
+                <a href="#cryptographic-advancements">
                   How does Irova ensure the integrity of compressed and
                   encrypted data?
                 </a>
               </p>
               <p>
-                <a href="">
+                <a href="#irova-compression-data-privacy">
                   What happens to encrypted data if I forget my password?
                 </a>
               </p>
@@ -246,34 +246,34 @@ const FAQ = () => {
                 <strong>Validator</strong>
               </h4>
               <p>
-                <a href="">Who qualifies as a validator in Irova?</a>
+                <a href="#irova-security-encryption">Who qualifies as a validator in Irova?</a>
               </p>
               <p>
-                <a href="">What is the role of a validator?</a>
+                <a href="#irova-compression-efficiency">What is the role of a validator?</a>
               </p>
               <p>
-                <a href="">How can one become a validator in Irova?</a>
+                <a href="#irova-cryptographic-encryption">How can one become a validator in Irova?</a>
               </p>
               <p>
-                <a href="">What are the benefits of being a validator?</a>
+                <a href="#irova-data-integrity">What are the benefits of being a validator?</a>
               </p>
               <p>
-                <a href="">How do validators contribute to the network?</a>
+                <a href="#irova-encryption-privacy">How do validators contribute to the network?</a>
               </p>
               <p>
-                <a href="">What are the responsibilities of a validator?</a>
+                <a href="#irova-blockchain-security">What are the responsibilities of a validator?</a>
               </p>
               <p>
-                <a href="">Can a validator be removed or replaced?</a>
+                <a href="#irova-real-time-processing">Can a validator be removed or replaced?</a>
               </p>
               <p>
-                <a href="">How are validators rewarded?</a>
+                <a href="#irova-balance-encryption-performance">How are validators rewarded?</a>
               </p>
               <p>
-                <a href="">What tools and support do validators receive?</a>
+                <a href="#irova-advancements-cryptographic-research">What tools and support do validators receive?</a>
               </p>
               <p>
-                <a href="">How do validators impact the user experience?</a>
+                <a href="#irova-compression-data-privacy">How do validators impact the user experience?</a>
               </p>
             </div>
             <div
@@ -284,34 +284,34 @@ const FAQ = () => {
                 <strong>Reward System</strong>
               </h4>
               <p>
-                <a href="">How does the reward system work in Irova?</a>
+                <a href="#irova-reward-system-blockchain">How does the reward system work in Irova?</a>
               </p>
               <p>
-                <a href="">What are block mining rewards?</a>
+                <a href="#irova-mining-rewards">What are block mining rewards?</a>
               </p>
               <p>
-                <a href="">How can I earn rewards in Irova?</a>
+                <a href="#irova-validators-role-rewards">How can I earn rewards in Irova?</a>
               </p>
               <p>
-                <a href="">What is the referral reward program?</a>
+                <a href="#irova-referral-reward-system">What is the referral reward program?</a>
               </p>
               <p>
-                <a href="">How are validator rewards calculated?</a>
+                <a href="#irova-halving-mechanism">How are validator rewards calculated?</a>
               </p>
               <p>
-                <a href="">What happens during a halving event?</a>
+                <a href="#irova-equitable-reward-distribution">What happens during a halving event?</a>
               </p>
               <p>
-                <a href="">Can rewards be converted to real money?</a>
+                <a href="#irova-token-supply-management">Can rewards be converted to real money?</a>
               </p>
               <p>
-                <a href="">How are rewards distributed?</a>
+                <a href="#irova-reward-system-impact">How are rewards distributed?</a>
               </p>
               <p>
-                <a href="">Are there any limits to earning rewards?</a>
+                <a href="#irova-reward-distribution-audit">Are there any limits to earning rewards?</a>
               </p>
               <p>
-                <a href="">
+                <a href="#irova-reward-system-adjustment">
                   How does the reward system encourage user engagement?
                 </a>
               </p>
@@ -325,19 +325,19 @@ const FAQ = () => {
                 <strong>Irova Supply and Specifications</strong>
               </h4>
               <p>
-                <a href="">What is the total supply of Irova tokens?</a>
+                <a href="#irova-token-supply-management-1">What is the total supply of Irova tokens?</a>
               </p>
               <p>
-                <a href="">What triggers a halving event in Irova?</a>
+                <a href="#irova-halving-mechanism-1">What triggers a halving event in Irova?</a>
               </p>
               <p>
-                <a href="">How is the price of Irova determined?</a>
+                <a href="#irova-initial-pricing-supply-cap">How is the price of Irova determined?</a>
               </p>
               <p>
-                <a href="">Can the supply of Irova tokens change?</a>
+                <a href="#irova-sustainability-strategies">Can the supply of Irova tokens change?</a>
               </p>
               <p>
-                <a href="">What are the long-term plans for Irova's economy?</a>
+                <a href="#irova-reward-halving-dynamic-pricing">What are the long-term plans for Irova's economy?</a>
               </p>
             </div>
             <hr />
@@ -615,6 +615,7 @@ const FAQ = () => {
               {" "}
               <strong>Irova Cluster</strong>
             </h4>
+
             <div id="irova-cluster-purpose">
               <h4
                 style={{
@@ -682,6 +683,7 @@ const FAQ = () => {
                 threats.
               </p>
             </div>
+
             <div id="irova-cluster-iroha-interaction">
               <h4
                 style={{
@@ -1686,7 +1688,7 @@ const FAQ = () => {
               <strong>Irova Supply and Specifications</strong>
             </h4>
 
-            <div id="irova-token-supply-management">
+            <div id="irova-token-supply-management-1">
               <h4
                 style={{
                   fontsize: "19px",
@@ -1712,7 +1714,7 @@ const FAQ = () => {
                 growth of the Irova platform.
               </p>
             </div>
-            <div id="irova-halving-mechanism">
+            <div id="irova-halving-mechanism-1">
               <h4
                 style={{
                   fontsize: "19px",
