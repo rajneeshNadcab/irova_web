@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 const Footer = () => {
   return (
@@ -6,22 +7,22 @@ const Footer = () => {
       <footer class="ch-device-restricted--desktop">
         <ul class="ch-footer-links ch-avatar-group-block">
           <li>
-            <a href="/privacy">privacy</a>
+            <Link to="/privacy">privacy</Link>
           </li>
           <li>
-            <a href="/terms">terms</a>
+            <Link to="/terms">terms</Link>
           </li>
           <li>
-            <a href="javasccript:void(0)">FAQs</a>
+            <Link to="/faq">FAQs</Link>
           </li>
           <li>
-            <a href="https://twitter.com/Irovamsg">
+            <a href="https://twitter.com/ghostmsg" target="_blank">
              
               <i class="fa fa-twitter"></i>
             </a>
           </li>
           <li>
-            <a href="https://www.instagram.com/Irovamsg/">
+            <a href="https://www.instagram.com/ghostmsg/" target="_blank">
             <i class="fa fa-instagram"></i>
             </a>
           </li>

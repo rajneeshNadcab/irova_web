@@ -9,6 +9,7 @@ import Affliate from "./page/Affliate";
 import Earn from "./page/Earn";
 import Advertise from "./page/Advertise";
 import Investor from "./page/Investor";
+import FAQ from "./page/FAQ";
 // import "./App.css";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
@@ -23,6 +24,7 @@ root.render(
         <Route path="/earn" element={<Earn />} />
         <Route path="/advertise" element={<Advertise />} />
         <Route path="/investor" element={<Investor />} />
+        <Route path="/faq" element={<FAQ />} />
       </Routes>
     </BrowserRouter>
   </React.StrictMode>

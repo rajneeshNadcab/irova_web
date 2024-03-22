@@ -1,5 +1,5 @@
 :root {
-  --ch-eggshell: #f1fbef!important;
+  --ch-eggshell: #f1fbef !important;
   --ch-chBlue-light: #d8e7ff;
   --ch-chBlue-default: #2f80ed;
   --ch-chBlue-medium: #5476aa;
@@ -128,14 +128,16 @@
   color: var(--ch-text-primary);
   transition: all 0.5s ease 0s;
 }
-
+@import url("https://fonts.googleapis.com/css2?family=Play:wght@400;700&display=swap");
 html,
 body {
   padding: 0;
   margin: 0;
-  font-family: Nunito, sans-serif;
+  font-family: Play !important;
 }
-
+* {
+  font-family: Play;
+}
 .ch-landing {
   height: 100vh;
   background-color: var(--ch-eggshell);
@@ -176,7 +178,7 @@ button {
   font-size: 1.06rem;
   font-family: Nunito, sans-serif;
   font-weight: 800;
-  text-transform: uppercase!important;
+  text-transform: uppercase !important;
 }
 
 .ch-btn--compact {
@@ -697,7 +699,7 @@ footer {
   top: 0;
   left: 0;
   bottom: 0;
-  right: 0; 
+  right: 0;
   background-color: #b8ff50;
 }
 
@@ -1040,7 +1042,7 @@ button,
     font-size: 42px;
   }
 }
-@media (max-width:392px){
+@media (max-width: 392px) {
   .ch-action-text-container {
     font-size: 36px;
   }
@@ -1205,22 +1207,41 @@ body {
   }
 }
 
-.container_manual{
+.container_manual {
   width: 43%;
   text-align: start;
 }
 @media (max-width: 450px) {
-  .container_manual{
+  .container_manual {
     width: 100%;
-  
+  }
+  .faq > div > div {
+    padding-left: 5px !important;
+  }
+  .faq > div > h1 {
+    padding-left: 5px !important;
   }
 }
 
-#privacyH5 h5{
+#privacyH5 h5 {
   width: fit-content;
   border-bottom: 1px solid black;
   border-bottom: 1px solid rgba(79, 76, 67, 0.6);
 }
-#fw h5{
+#fw h5 {
   font-weight: 500;
+}
+
+.borderRight {
+  border-left: 5px solid #179cde;
+  padding: 5px 17px;
+  /* font-family: initial; */
+}
+.general a {
+  color: #0088cc;
+  font-size: 19px;
+  text-decoration: none;
+}
+.general > p {
+  margin-bottom: 1px;
 }

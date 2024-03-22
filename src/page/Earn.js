@@ -254,7 +254,7 @@ const Earn = () => {
                       <li style={{ padding: "5px 0px" }}>
                         Adherence to Community Guidelines: To maintain
                         eligibility for monetization, content must adhere to
-                        Ghost’s community guidelines and terms of service. This
+                        Irova’s community guidelines and terms of service. This
                         requirement ensures that monetized content upholds the
                         platform's standards and values.
                       </li>
@@ -307,7 +307,7 @@ const Earn = () => {
                   <strong style={strongStyle}>Notification of Changes:</strong>
                   <ul>
                     <li>
-                      Transparency is key in the amendment process. Ghost
+                      Transparency is key in the amendment process. Irova
                       commits to communicating any significant changes to the
                       policy to all users, particularly those participating in
                       the monetization program.

@@ -1,4 +1,5 @@
 import React, { useEffect, useState, useRef } from "react";
+import { Link } from "react-router-dom";
 
 const Navbar = () => {
   const [landing, setLanding] = useState("");
@@ -340,31 +341,31 @@ const Navbar = () => {
         <footer class="ch-hamburger-footer">
           <ul class="ch-footer-links">
             <li>
-              <a href="/privacy">privacy</a>
+              <Link to="/privacy">privacy</Link>
             </li>
             <li>
-              <a href="/terms">terms</a>
+              <Link to="/terms">terms</Link>
             </li>
             <li>
-              <a href="javasccript:void(0)/">FAQs</a>
+              <Link to="/faq">FAQs</Link>
             </li>
           </ul>
           <ul class="ch-footer-links ch-hamburger-social-links">
             <li>
-              <a href="https://twitter.com/Irovamsg">
+              <a href="https://twitter.com/ghostmsg" target="_blank">
                 <i className="fa fa-twitter"></i>
               </a>
             </li>
             <li>
-              <a href="https://www.instagram.com/Irovamsg/">
+              <a href="https://www.instagram.com/ghostmsg/" target="_blank">
                 <i className="fa fa-instagram"></i>
               </a>
             </li>
           </ul>
         </footer>
         <div class="ch-copyright ch-hamburger-copyright">
-          <a
-            href="/investor"
+          <Link
+            to="/investor"
             style={{
               color: "black",
               textDecoration: "none",
@@ -372,9 +373,9 @@ const Navbar = () => {
             }}
           >
             <span class="ch-copyright-year"> Investor</span>{" "}
-          </a>
-          <a
-            href="/advertise"
+          </Link>
+          <Link
+            to="/advertise"
             style={{
               color: "black",
               textDecoration: "none",
@@ -382,7 +383,7 @@ const Navbar = () => {
             }}
           >
             <span class="ch-copyright-year"> Advertise</span>{" "}
-          </a>
+          </Link>
           © <span class="ch-copyright-year">2023</span> Cork Labs Ltd.
         </div>
       </div>
